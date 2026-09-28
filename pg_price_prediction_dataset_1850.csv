@@ -1,0 +1,1851 @@
+city,area,room_type,sharing,rent,room_size_sqft,food,wifi,ac,attached_bathroom,furnished,parking,cctv,power_backup
+Delhi,Rohini,2BHK,2,17100,220,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,11700,220,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 76,3BHK,3,8200,340,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Gurugram,DLF Phase 3,2BHK,2,14200,190,No,Yes,No,No,Fully Furnished,No,No,Yes
+Jaipur,Tonk Road,1BHK,1,13500,140,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Marathahalli,2BHK,2,11300,170,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Bandra West,1BHK,1,20500,140,No,Yes,No,Yes,Unfurnished,Yes,No,Yes
+Lucknow,Gomti Nagar,3BHK,3,7100,400,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Lucknow,Ashiyana,1BHK,1,12900,280,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Sodala,2BHK,2,6500,300,Yes,Yes,No,No,Semi Furnished,No,Yes,No
+Jaipur,Gopalpura,3BHK,3,5400,390,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Teliarganj,4BHK,4,4000,370,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Pune,Kothrud,3BHK,3,6700,290,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 137,1BHK,1,17100,260,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Teliarganj,3BHK,3,4300,490,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 137,3BHK,3,8400,320,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Jaipur,Mansarovar,3BHK,3,5000,440,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,9700,220,Yes,Yes,Yes,Yes,Unfurnished,No,No,Yes
+Lucknow,Hazratganj,2BHK,2,8000,320,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,3BHK,3,11900,280,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,1BHK,1,24700,230,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Hyderabad,Kondapur,1BHK,1,15200,210,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Dwarka,1BHK,1,22100,160,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Mumbai,Ghatkopar,1BHK,1,23600,250,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Jankipuram,3BHK,3,7200,290,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Pune,Viman Nagar,4BHK,4,7900,300,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Saket,1BHK,1,28800,230,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Lucknow,Chinhat,2BHK,2,8000,330,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Gurugram,DLF Phase 2,3BHK,3,10000,320,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,7300,270,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 15,1BHK,1,19700,130,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,4BHK,4,5600,350,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,1BHK,1,14000,210,No,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Kukatpally,2BHK,2,8500,360,Yes,No,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 63,1BHK,1,18400,240,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,2BHK,2,6300,270,Yes,Yes,Yes,No,Fully Furnished,No,Yes,No
+Jaipur,Raja Park,2BHK,2,8700,210,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Mumbai,Chembur,1BHK,1,25700,140,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Electronic City,2BHK,2,11200,150,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Thane,2BHK,2,14700,180,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 18,3BHK,3,7400,230,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Karol Bagh,1BHK,1,29000,230,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Powai,3BHK,3,12500,180,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Jaipur,C-Scheme,1BHK,1,12400,120,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Hitech City,3BHK,3,7000,430,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,2BHK,2,16800,280,Yes,No,Yes,No,Fully Furnished,No,Yes,Yes
+Mumbai,Malad,1BHK,1,23500,190,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,14700,240,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Hyderabad,Manikonda,1BHK,1,14000,260,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 43,3BHK,3,9100,310,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Lucknow,Gomti Nagar,2BHK,2,7300,310,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Tonk Road,3BHK,3,5800,220,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,9900,170,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,2BHK,2,11100,390,No,Yes,Yes,No,Fully Furnished,No,No,Yes
+Noida,Sector 15,2BHK,2,12800,370,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Salori,2BHK,2,5400,220,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 51,2BHK,2,12500,230,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Koregaon Park,2BHK,2,10300,260,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,2BHK,2,17600,350,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,1BHK,1,28300,210,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,HSR Layout,1BHK,1,17600,120,No,Yes,Yes,No,Semi Furnished,Yes,Yes,No
+Hyderabad,Secunderabad,1BHK,1,14200,190,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 51,1BHK,1,20900,220,Yes,No,Yes,Yes,Semi Furnished,Yes,No,Yes
+Lucknow,Gomti Nagar,3BHK,3,6800,490,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,15500,280,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Dwarka,2BHK,2,17800,270,Yes,No,Yes,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 18,1BHK,1,14000,130,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Hauz Khas,1BHK,1,25200,240,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 27,3BHK,3,8400,380,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 62,1BHK,1,16700,190,Yes,No,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 15,1BHK,1,28200,150,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Naini,2BHK,2,6000,150,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,1BHK,1,20300,160,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Mansarovar,4BHK,4,4600,450,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 15,4BHK,4,7800,230,Yes,No,Yes,Yes,Fully Furnished,No,Yes,No
+Delhi,Rajouri Garden,1BHK,1,22800,230,Yes,Yes,Yes,No,Fully Furnished,No,Yes,No
+Noida,Sector 63,2BHK,2,9200,320,No,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,2BHK,2,7500,180,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 15,4BHK,4,9300,230,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 76,1BHK,1,15900,260,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Jaipur,C-Scheme,3BHK,3,5900,350,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,2BHK,2,13400,340,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Bengaluru,Bellandur,2BHK,2,10800,310,No,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Noida,Sector 18,2BHK,2,11500,290,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Pune,Wakad,2BHK,2,10500,290,Yes,No,No,No,Unfurnished,No,Yes,Yes
+Noida,Sector 52,3BHK,3,7600,370,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,2BHK,2,14600,300,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,Viman Nagar,1BHK,1,13000,230,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Mumbai,Bandra West,2BHK,2,18400,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Baner,3BHK,3,8800,390,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Gurugram,DLF Phase 2,1BHK,1,22800,200,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Hitech City,2BHK,2,6800,350,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Bengaluru,Bellandur,2BHK,2,10400,330,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Kondapur,1BHK,1,15700,230,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Hyderabad,Begumpet,3BHK,3,8200,410,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Lucknow,Chinhat,3BHK,3,4700,300,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,2BHK,2,14400,160,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Jaipur,Pratap Nagar,2BHK,2,7200,330,No,Yes,Yes,No,Semi Furnished,No,Yes,No
+Delhi,Karol Bagh,1BHK,1,22900,290,Yes,No,No,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 15,2BHK,2,11600,260,No,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,1BHK,1,27100,240,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 62,3BHK,3,8800,190,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Lucknow,Indira Nagar,1BHK,1,16300,150,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Katra,4BHK,4,3100,520,Yes,Yes,No,No,Fully Furnished,No,No,No
+Prayagraj,Old Katra,3BHK,3,5600,190,No,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Kukatpally,2BHK,2,6600,380,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,15800,320,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 51,1BHK,1,17900,180,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,2BHK,2,13800,370,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Ashok Nagar,3BHK,3,4900,380,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Vikas Nagar,1BHK,1,16100,190,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Pune,Hadapsar,2BHK,2,7800,350,Yes,Yes,No,No,Unfurnished,No,No,Yes
+Mumbai,Powai,2BHK,2,16100,280,Yes,No,Yes,Yes,Unfurnished,No,Yes,Yes
+Pune,FC Road,3BHK,3,6400,490,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Lucknow,Ashiyana,3BHK,3,5900,380,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Andheri West,3BHK,3,9700,460,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Bengaluru,Marathahalli,2BHK,2,10200,370,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,11300,350,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Thane,1BHK,1,25200,260,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,No
+Mumbai,Ghatkopar,2BHK,2,13700,220,No,Yes,No,No,Fully Furnished,Yes,No,Yes
+Pune,Koregaon Park,2BHK,2,12300,300,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,14200,160,No,Yes,No,Yes,Unfurnished,No,No,Yes
+Noida,Sector 15,1BHK,1,17400,200,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,1BHK,1,26800,160,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Kukatpally,2BHK,2,10400,300,No,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 62,1BHK,1,14700,270,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,4BHK,4,9400,240,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,14800,220,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Jaipur,Pratap Nagar,2BHK,2,7900,260,No,Yes,No,Yes,Fully Furnished,Yes,No,No
+Mumbai,Andheri West,3BHK,3,12900,270,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Bandra West,1BHK,1,28600,260,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,HSR Layout,4BHK,4,7800,480,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,1BHK,1,23300,120,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Prayagraj,Naini,3BHK,3,4100,400,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Hyderabad,Madhapur,1BHK,1,13300,190,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,4BHK,4,5300,540,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,15400,220,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,14300,320,Yes,No,No,Yes,Fully Furnished,No,No,Yes
+Gurugram,Sector 49,2BHK,2,16400,380,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,FC Road,2BHK,2,11900,200,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Laxmi Nagar,3BHK,3,11900,270,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,1BHK,1,11000,130,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,4BHK,4,10100,430,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Hinjewadi,3BHK,3,9600,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,4BHK,4,5600,460,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,BTM Layout,1BHK,1,19400,240,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,2BHK,2,8000,390,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,No
+Noida,Sector 63,3BHK,3,9500,320,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Noida,Sector 18,1BHK,1,19800,160,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Hyderabad,Madhapur,1BHK,1,14300,180,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Hinjewadi,2BHK,2,11000,260,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 27,3BHK,3,7600,360,Yes,Yes,Yes,No,Unfurnished,No,No,Yes
+Mumbai,Vikhroli,1BHK,1,24500,290,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Goregaon,1BHK,1,29300,240,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 137,3BHK,3,7000,460,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Jankipuram,1BHK,1,11200,140,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Pune,Viman Nagar,3BHK,3,8600,290,No,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Noida,Sector 137,1BHK,1,17200,210,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,1BHK,1,14700,280,No,No,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 49,3BHK,3,9300,240,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 15,1BHK,1,20500,250,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,3BHK,3,12200,360,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,14800,250,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 15,3BHK,3,9900,370,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 43,1BHK,1,22100,120,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Prayagraj,Salori,1BHK,1,8400,200,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Bengaluru,HSR Layout,3BHK,3,8600,390,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,Tagore Town,3BHK,3,5300,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Bengaluru,BTM Layout,1BHK,1,19700,220,No,No,Yes,Yes,Semi Furnished,Yes,No,Yes
+Lucknow,Hazratganj,3BHK,3,5800,220,Yes,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Madhapur,2BHK,2,10200,300,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Lucknow,Aliganj,3BHK,3,7000,380,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,1BHK,1,28600,200,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,1BHK,1,16200,230,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,2BHK,2,5900,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,South Extension,3BHK,3,10300,210,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Bengaluru,HSR Layout,2BHK,2,10800,240,No,No,No,No,Fully Furnished,Yes,No,Yes
+Lucknow,Mahanagar,1BHK,1,12500,200,No,Yes,Yes,No,Unfurnished,No,Yes,No
+Gurugram,Sector 15,2BHK,2,16700,370,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Saket,1BHK,1,23000,120,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,12800,170,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Mumbai,Malad,4BHK,4,9800,380,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,3BHK,3,4300,420,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,15500,180,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,1BHK,1,23500,280,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,18400,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 16,1BHK,1,18600,140,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Begumpet,1BHK,1,15300,130,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 16,1BHK,1,17800,140,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,14800,300,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 137,4BHK,4,7100,570,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,Wakad,2BHK,2,11500,230,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Vaishali Nagar,4BHK,4,5600,470,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,No
+Gurugram,Sector 15,1BHK,1,25700,150,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Noida,Sector 51,1BHK,1,17600,260,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 52,1BHK,1,16600,250,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,1BHK,1,15000,140,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Gurugram,Sector 14,2BHK,2,13900,230,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 137,3BHK,3,9100,390,No,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,15100,190,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Lucknow,Hazratganj,2BHK,2,7400,220,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 51,2BHK,2,9300,350,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Noida,Sector 62,2BHK,2,11100,240,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Civil Lines,3BHK,3,5400,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Ghatkopar,2BHK,2,14900,330,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,JP Nagar,1BHK,1,19500,290,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Karol Bagh,3BHK,3,13400,250,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,1BHK,1,27600,150,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Gurugram,DLF Phase 3,1BHK,1,24600,170,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Andheri West,3BHK,3,12500,340,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,2BHK,2,13800,340,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 51,1BHK,1,16300,230,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Delhi,Laxmi Nagar,3BHK,3,12500,350,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,2BHK,2,14900,220,Yes,No,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Karol Bagh,1BHK,1,20600,130,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,18600,260,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 63,2BHK,2,12600,310,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 3,1BHK,1,27700,160,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Pune,Aundh,3BHK,3,8500,220,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Raja Park,3BHK,3,5700,420,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Karol Bagh,2BHK,2,16400,330,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 51,1BHK,1,16100,240,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Sodala,1BHK,1,10400,280,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Lucknow,Vikas Nagar,2BHK,2,5600,370,No,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Hyderabad,Hitech City,3BHK,3,6500,270,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,13700,200,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,8200,380,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Ghatkopar,2BHK,2,16200,380,Yes,No,No,Yes,Fully Furnished,Yes,No,Yes
+Pune,Hinjewadi,1BHK,1,15800,210,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 18,2BHK,2,12100,320,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Jaipur,Jagatpura,2BHK,2,7500,300,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,4BHK,4,11000,320,Yes,Yes,Yes,No,Unfurnished,Yes,No,Yes
+Delhi,Laxmi Nagar,2BHK,2,13500,210,No,No,No,Yes,Fully Furnished,No,No,Yes
+Mumbai,Goregaon,4BHK,4,9600,530,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Hebbal,2BHK,2,9200,340,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,2BHK,2,17600,260,Yes,No,Yes,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 51,2BHK,2,9400,160,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Miyapur,2BHK,2,7600,200,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 63,2BHK,2,11800,350,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Allahpur,1BHK,1,8300,290,No,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Noida,Sector 62,1BHK,1,17800,160,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 21,2BHK,2,15600,270,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 76,2BHK,2,9800,330,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Prayagraj,Ashok Nagar,3BHK,3,4200,220,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Pune,Wakad,1BHK,1,16100,180,No,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Vikhroli,2BHK,2,16700,220,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Rohini,2BHK,2,13900,360,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Gomti Nagar,3BHK,3,6200,290,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Jaipur,C-Scheme,3BHK,3,6100,360,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Andheri West,2BHK,2,13200,260,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,2BHK,2,13100,220,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,4BHK,4,10200,460,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Mansarovar,2BHK,2,8100,330,No,No,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 44,2BHK,2,13200,340,No,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Prayagraj,Civil Lines,1BHK,1,7600,170,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Bengaluru,Hebbal,2BHK,2,12300,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Hyderabad,Hitech City,1BHK,1,14200,230,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Noida,Sector 76,3BHK,3,8400,410,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,10900,300,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Delhi,Karol Bagh,3BHK,3,10700,330,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,2BHK,2,15900,180,Yes,No,Yes,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,BTM Layout,2BHK,2,12200,240,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Lucknow,Mahanagar,1BHK,1,11900,290,No,No,Yes,Yes,Unfurnished,No,Yes,Yes
+Mumbai,Bandra West,4BHK,4,9900,540,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,3BHK,3,9400,280,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,4BHK,4,11100,350,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 51,2BHK,2,10100,320,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,3BHK,3,4900,210,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 21,3BHK,3,12800,190,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Delhi,South Extension,2BHK,2,18800,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,16300,370,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Salori,2BHK,2,4400,390,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Dwarka,3BHK,3,11900,440,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,FC Road,2BHK,2,13000,150,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Pune,Baner,3BHK,3,9100,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Jaipur,Tonk Road,3BHK,3,5600,460,Yes,Yes,No,Yes,Semi Furnished,Yes,No,No
+Gurugram,Sector 14,1BHK,1,23900,230,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,3BHK,3,5900,180,Yes,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,12900,340,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,3BHK,3,7200,420,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Wakad,3BHK,3,8300,270,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Pune,Hadapsar,1BHK,1,16000,290,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 51,4BHK,4,6900,220,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Hyderabad,Gachibowli,3BHK,3,7000,410,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,26000,130,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Prayagraj,Teliarganj,2BHK,2,4200,320,No,Yes,No,No,Fully Furnished,No,Yes,No
+Lucknow,Chinhat,2BHK,2,8200,260,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,Wakad,1BHK,1,19200,170,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Lucknow,Vikas Nagar,3BHK,3,5500,400,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 51,1BHK,1,19900,140,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Jaipur,Mansarovar,3BHK,3,4200,190,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,2BHK,2,9300,210,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,13500,260,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 51,2BHK,2,9900,350,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Hyderabad,Miyapur,2BHK,2,8900,270,Yes,Yes,No,Yes,Unfurnished,Yes,No,Yes
+Bengaluru,Bellandur,4BHK,4,6700,310,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Jaipur,Raja Park,2BHK,2,7800,170,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,17100,200,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,HSR Layout,3BHK,3,9300,230,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Hauz Khas,1BHK,1,28600,200,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Bellandur,1BHK,1,20000,120,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Gurugram,Sector 44,1BHK,1,22200,180,Yes,Yes,Yes,No,Semi Furnished,No,No,Yes
+Lucknow,Indira Nagar,1BHK,1,12600,250,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Pune,Koregaon Park,1BHK,1,16300,270,Yes,No,No,No,Semi Furnished,No,Yes,Yes
+Pune,Aundh,3BHK,3,7000,320,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 43,2BHK,2,15700,390,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,3BHK,3,8000,220,Yes,No,Yes,Yes,Unfurnished,Yes,No,Yes
+Lucknow,Gomti Nagar,2BHK,2,8100,330,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Hyderabad,Ameerpet,1BHK,1,17200,240,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Gurugram,Sector 49,2BHK,2,14800,250,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Vaishali Nagar,1BHK,1,12100,240,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Secunderabad,2BHK,2,10300,310,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,3BHK,3,5900,430,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Hyderabad,Kukatpally,3BHK,3,4800,440,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Gachibowli,2BHK,2,7700,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,3BHK,3,7800,190,Yes,Yes,Yes,No,Semi Furnished,No,No,Yes
+Noida,Sector 62,3BHK,3,8100,290,No,Yes,Yes,Yes,Unfurnished,No,No,Yes
+Gurugram,Sector 43,4BHK,4,9700,550,Yes,No,No,Yes,Fully Furnished,Yes,No,No
+Pune,Koregaon Park,2BHK,2,8600,390,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,3BHK,3,13100,490,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Andheri East,4BHK,4,9300,290,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Rajouri Garden,3BHK,3,13400,380,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Aliganj,1BHK,1,15800,150,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Delhi,Rohini,3BHK,3,12600,380,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Vikhroli,1BHK,1,23100,160,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Gurugram,DLF Phase 3,3BHK,3,10100,400,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,1BHK,1,23300,150,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,10000,240,Yes,No,No,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,HSR Layout,3BHK,3,8400,400,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,No
+Mumbai,Powai,3BHK,3,13900,310,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,13300,330,No,Yes,No,Yes,Unfurnished,Yes,No,Yes
+Jaipur,Sodala,1BHK,1,11500,160,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Delhi,South Extension,2BHK,2,15700,230,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 76,1BHK,1,18600,250,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rajouri Garden,3BHK,3,11200,360,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,2BHK,2,15700,340,Yes,No,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,FC Road,1BHK,1,16600,170,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 15,2BHK,2,12300,160,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Jaipur,Malviya Nagar,2BHK,2,6500,200,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 62,3BHK,3,8700,320,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Gachibowli,2BHK,2,6900,390,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 62,3BHK,3,8000,250,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 16,1BHK,1,11700,260,No,Yes,No,No,Unfurnished,No,Yes,Yes
+Mumbai,Goregaon,2BHK,2,12700,370,Yes,Yes,No,No,Semi Furnished,Yes,Yes,No
+Gurugram,DLF Phase 2,2BHK,2,15400,340,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 137,1BHK,1,13900,120,No,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Pune,Viman Nagar,4BHK,4,6100,570,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Jaipur,Mansarovar,1BHK,1,10100,240,Yes,Yes,No,No,Fully Furnished,No,No,Yes
+Hyderabad,Ameerpet,2BHK,2,10600,170,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Koramangala,4BHK,4,7600,370,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Chembur,1BHK,1,25600,180,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 51,1BHK,1,15000,160,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Old Katra,2BHK,2,4000,210,No,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Rohini,2BHK,2,16700,240,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 76,1BHK,1,16200,180,Yes,Yes,Yes,Yes,Unfurnished,Yes,No,Yes
+Bengaluru,JP Nagar,2BHK,2,10700,150,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Jaipur,Jagatpura,3BHK,3,6300,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,DLF Phase 2,1BHK,1,22600,220,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Hyderabad,Kukatpally,2BHK,2,7700,170,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Saket,1BHK,1,25000,240,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,1BHK,1,19300,140,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Vikhroli,3BHK,3,15100,310,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Goregaon,3BHK,3,11900,290,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 27,1BHK,1,16500,130,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,4BHK,4,9600,450,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 63,1BHK,1,14900,230,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,1BHK,1,11400,170,No,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Lucknow,Hazratganj,2BHK,2,8700,340,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Rohini,3BHK,3,12500,300,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,14100,190,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Lucknow,Jankipuram,1BHK,1,14000,230,No,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Delhi,Karol Bagh,3BHK,3,12000,190,No,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Jagatpura,3BHK,3,5800,390,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Pune,Aundh,2BHK,2,8300,350,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Jaipur,Mansarovar,2BHK,2,6900,240,No,No,Yes,Yes,Semi Furnished,Yes,Yes,No
+Pune,Koregaon Park,2BHK,2,10000,320,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 43,3BHK,3,11000,350,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,3BHK,3,5500,320,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Naini,1BHK,1,10600,120,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,3BHK,3,8200,270,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Baner,1BHK,1,14500,230,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Pune,Aundh,2BHK,2,9400,150,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,15900,330,Yes,Yes,Yes,No,Semi Furnished,No,Yes,No
+Hyderabad,Begumpet,3BHK,3,6600,300,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Mumbai,Vikhroli,3BHK,3,13100,420,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Aundh,1BHK,1,17600,180,No,No,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 49,4BHK,4,10000,290,No,No,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 137,3BHK,3,8400,340,Yes,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Ashok Nagar,2BHK,2,5500,260,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Noida,Sector 27,3BHK,3,8300,380,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kondapur,3BHK,3,5800,240,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 17,4BHK,4,10700,360,Yes,No,Yes,Yes,Fully Furnished,No,No,No
+Gurugram,Sector 21,2BHK,2,13900,280,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Miyapur,2BHK,2,10000,240,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Aliganj,3BHK,3,7000,460,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,2BHK,2,8200,270,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,8900,180,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Mumbai,Powai,3BHK,3,12000,240,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Dwarka,2BHK,2,17000,330,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Delhi,South Extension,1BHK,1,26300,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Rohini,2BHK,2,17600,340,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Tonk Road,3BHK,3,6000,330,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Baner,1BHK,1,20200,260,No,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 62,3BHK,3,8400,250,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Powai,1BHK,1,25500,280,Yes,No,Yes,No,Fully Furnished,No,No,Yes
+Bengaluru,Whitefield,2BHK,2,11900,390,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,2BHK,2,10300,320,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 2,1BHK,1,23400,270,Yes,Yes,No,Yes,Semi Furnished,No,No,No
+Mumbai,Chembur,1BHK,1,23700,220,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,9600,230,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Naini,4BHK,4,3400,340,Yes,No,No,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,2BHK,2,8800,260,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 27,2BHK,2,9900,270,No,Yes,Yes,No,Unfurnished,Yes,Yes,No
+Lucknow,Alambagh,1BHK,1,14900,120,Yes,No,Yes,Yes,Fully Furnished,Yes,No,No
+Lucknow,Vikas Nagar,3BHK,3,6100,390,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Prayagraj,Dhoomanganj,1BHK,1,8800,160,No,Yes,Yes,Yes,Semi Furnished,No,No,No
+Lucknow,Hazratganj,2BHK,2,8200,160,Yes,Yes,No,No,Fully Furnished,No,No,Yes
+Lucknow,Ashiyana,3BHK,3,6500,230,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Vijay Nagar,2BHK,2,14800,270,Yes,No,No,Yes,Fully Furnished,No,Yes,No
+Gurugram,Sector 46,3BHK,3,12100,180,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Ghatkopar,4BHK,4,9100,380,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Miyapur,2BHK,2,8600,260,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,2BHK,2,14500,190,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 18,2BHK,2,11800,350,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Bengaluru,Indiranagar,2BHK,2,12100,180,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,3BHK,3,11000,240,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Jaipur,Tonk Road,2BHK,2,7700,330,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,3BHK,3,5900,420,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Jaipur,C-Scheme,3BHK,3,6100,460,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 46,2BHK,2,16300,390,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Noida,Sector 62,3BHK,3,8400,270,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Hauz Khas,1BHK,1,21100,140,Yes,Yes,No,Yes,Unfurnished,Yes,No,No
+Delhi,Laxmi Nagar,3BHK,3,11300,180,No,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,16100,370,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Hyderabad,Madhapur,3BHK,3,5200,440,No,No,No,Yes,Unfurnished,No,Yes,Yes
+Mumbai,Goregaon,2BHK,2,16100,220,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Jaipur,Vaishali Nagar,3BHK,3,6000,380,Yes,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 18,3BHK,3,8000,350,No,Yes,Yes,No,Semi Furnished,No,Yes,No
+Prayagraj,Ashok Nagar,4BHK,4,4400,270,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 3,3BHK,3,10000,300,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,15900,230,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 62,3BHK,3,8700,370,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Wakad,1BHK,1,18200,140,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Marathahalli,3BHK,3,8300,480,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Saket,3BHK,3,12300,360,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,3BHK,3,10300,360,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Thane,2BHK,2,15100,180,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Bengaluru,BTM Layout,1BHK,1,16600,220,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Prayagraj,Teliarganj,3BHK,3,5500,330,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,10500,380,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 17,2BHK,2,13700,210,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Kharadi,4BHK,4,6200,410,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Whitefield,3BHK,3,9900,450,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Gopalpura,2BHK,2,7600,370,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Prayagraj,Katra,1BHK,1,9400,170,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,1BHK,1,16900,240,Yes,Yes,No,Yes,Semi Furnished,Yes,No,No
+Prayagraj,Dhoomanganj,3BHK,3,4400,270,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 16,1BHK,1,13400,190,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Delhi,Rajouri Garden,2BHK,2,15800,250,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,DLF Phase 3,1BHK,1,24500,130,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Miyapur,1BHK,1,13300,150,Yes,No,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,2BHK,2,7800,280,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,Hinjewadi,1BHK,1,18300,170,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,BTM Layout,2BHK,2,9100,180,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,13400,380,Yes,Yes,No,No,Semi Furnished,Yes,No,Yes
+Delhi,South Extension,1BHK,1,24600,220,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Delhi,Dwarka,2BHK,2,17300,380,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Powai,3BHK,3,11600,190,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Noida,Sector 16,3BHK,3,7700,390,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,3BHK,3,11900,330,No,Yes,No,No,Fully Furnished,Yes,No,No
+Mumbai,Vikhroli,2BHK,2,18000,330,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Prayagraj,Teliarganj,2BHK,2,6300,240,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Delhi,Vijay Nagar,1BHK,1,31700,160,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 15,2BHK,2,17300,370,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Mumbai,Malad,2BHK,2,15000,360,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Prayagraj,Civil Lines,2BHK,2,6200,270,No,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,FC Road,3BHK,3,9600,290,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,1BHK,1,11900,280,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Bengaluru,JP Nagar,1BHK,1,18500,200,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,15000,170,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 15,2BHK,2,9900,250,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,3BHK,3,4700,470,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,2BHK,2,6300,160,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Dwarka,2BHK,2,19000,250,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Malad,2BHK,2,15600,290,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,4BHK,4,6500,510,Yes,Yes,No,No,Semi Furnished,No,Yes,No
+Mumbai,Chembur,1BHK,1,22800,120,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Teliarganj,1BHK,1,8800,190,No,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Bengaluru,HSR Layout,2BHK,2,10100,240,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Sodala,2BHK,2,5900,280,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 46,3BHK,3,12100,440,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 18,2BHK,2,11100,210,No,Yes,No,Yes,Semi Furnished,No,No,No
+Pune,Aundh,2BHK,2,8900,290,No,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,Allahpur,2BHK,2,5400,260,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Civil Lines,2BHK,2,5800,230,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,4BHK,4,4800,580,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Bandra West,2BHK,2,16900,380,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,2BHK,2,12800,210,No,Yes,No,No,Unfurnished,Yes,Yes,No
+Noida,Sector 62,3BHK,3,8400,230,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Mumbai,Ghatkopar,1BHK,1,23100,170,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Lucknow,Aliganj,1BHK,1,13700,280,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,1BHK,1,23500,260,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Hyderabad,Ameerpet,1BHK,1,15900,220,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,Naini,3BHK,3,5200,300,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,2BHK,2,13000,220,No,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Mumbai,Ghatkopar,2BHK,2,15400,260,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,3BHK,3,9400,240,No,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,10800,370,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,2BHK,2,8400,290,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Hyderabad,Secunderabad,3BHK,3,6800,320,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Lucknow,Chinhat,1BHK,1,11500,260,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,14600,210,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Mumbai,Powai,2BHK,2,16600,150,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 27,2BHK,2,10100,250,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Delhi,Mukherjee Nagar,4BHK,4,11800,310,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Bengaluru,Koramangala,3BHK,3,7700,370,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,1BHK,1,20600,120,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Hitech City,4BHK,4,7300,400,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Aliganj,3BHK,3,6800,350,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Hadapsar,4BHK,4,6900,580,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,3BHK,3,11800,400,Yes,No,Yes,Yes,Unfurnished,No,Yes,No
+Pune,Wakad,1BHK,1,17500,280,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Pune,Kharadi,4BHK,4,6800,310,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,11100,290,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,4BHK,4,3300,290,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,2BHK,2,6500,150,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 43,2BHK,2,13200,170,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Pune,Viman Nagar,3BHK,3,7000,230,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Jaipur,Vaishali Nagar,3BHK,3,5400,290,No,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Mumbai,Vikhroli,4BHK,4,10200,420,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Pune,Kothrud,3BHK,3,7400,190,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,1BHK,1,21900,170,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,2BHK,2,8500,230,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,11200,380,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Gurugram,Sector 15,1BHK,1,19000,120,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Hyderabad,Manikonda,1BHK,1,14100,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Miyapur,4BHK,4,7200,270,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Mumbai,Bandra West,2BHK,2,13600,320,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Hebbal,2BHK,2,8400,340,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 17,4BHK,4,9200,440,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 44,3BHK,3,10800,200,Yes,No,No,Yes,Semi Furnished,No,No,Yes
+Gurugram,Sector 44,4BHK,4,9100,490,Yes,Yes,No,Yes,Semi Furnished,No,No,No
+Jaipur,Tonk Road,2BHK,2,8200,240,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,George Town,4BHK,4,4200,490,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Koregaon Park,2BHK,2,11300,250,Yes,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Katra,2BHK,2,6900,200,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Pune,Viman Nagar,4BHK,4,7100,230,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Sodala,2BHK,2,6900,310,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 137,3BHK,3,8500,380,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Sodala,2BHK,2,7100,230,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,1BHK,1,24700,260,Yes,Yes,No,No,Semi Furnished,No,Yes,No
+Mumbai,Malad,2BHK,2,16600,360,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 63,1BHK,1,17700,190,Yes,Yes,No,No,Fully Furnished,Yes,No,No
+Jaipur,Tonk Road,1BHK,1,11300,220,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Hauz Khas,3BHK,3,12300,340,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Gurugram,Sector 14,1BHK,1,26100,230,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Thane,1BHK,1,23000,130,Yes,Yes,No,Yes,Fully Furnished,Yes,No,No
+Lucknow,Alambagh,3BHK,3,7200,200,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,16100,150,Yes,Yes,No,No,Fully Furnished,Yes,No,No
+Pune,Hinjewadi,4BHK,4,8700,500,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Ameerpet,3BHK,3,6800,190,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Delhi,Saket,2BHK,2,13700,190,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Hyderabad,Madhapur,1BHK,1,10900,120,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Hyderabad,Ameerpet,1BHK,1,16700,160,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Noida,Sector 27,4BHK,4,6200,540,Yes,Yes,Yes,Yes,Unfurnished,No,No,No
+Hyderabad,Hitech City,3BHK,3,5900,230,Yes,No,Yes,No,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 43,2BHK,2,16100,340,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Ashok Nagar,3BHK,3,4500,430,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Begumpet,3BHK,3,6800,420,No,No,No,No,Semi Furnished,Yes,Yes,No
+Jaipur,C-Scheme,2BHK,2,6700,390,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Lucknow,Aliganj,3BHK,3,6100,300,Yes,Yes,Yes,No,Semi Furnished,No,No,Yes
+Mumbai,Thane,1BHK,1,29900,160,Yes,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,1BHK,1,28600,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,24900,290,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Gopalpura,3BHK,3,5400,350,Yes,Yes,Yes,No,Semi Furnished,No,Yes,No
+Gurugram,DLF Phase 2,2BHK,2,14100,200,No,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 51,4BHK,4,5600,440,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Noida,Sector 62,2BHK,2,10200,150,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,15500,340,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Madhapur,1BHK,1,14300,180,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Aliganj,2BHK,2,6300,230,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Noida,Sector 76,2BHK,2,11200,210,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Bengaluru,Bellandur,3BHK,3,7500,440,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Delhi,Karol Bagh,2BHK,2,15300,260,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,13000,280,No,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 18,2BHK,2,10500,200,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,1BHK,1,14200,140,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Jaipur,Mansarovar,1BHK,1,10900,210,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Pune,Hinjewadi,1BHK,1,17700,150,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,2BHK,2,10300,180,Yes,No,Yes,No,Semi Furnished,No,Yes,No
+Gurugram,Sector 43,4BHK,4,10200,350,Yes,Yes,Yes,No,Fully Furnished,No,No,No
+Noida,Sector 76,2BHK,2,9500,300,Yes,Yes,No,No,Fully Furnished,Yes,No,Yes
+Noida,Sector 16,4BHK,4,6500,370,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Bengaluru,Electronic City,4BHK,4,8000,430,Yes,No,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,South Extension,1BHK,1,19600,140,No,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,14800,160,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Chembur,4BHK,4,10300,410,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,2BHK,2,10900,190,Yes,No,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Koramangala,3BHK,3,9300,480,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 15,2BHK,2,13300,190,No,No,No,Yes,Fully Furnished,Yes,No,No
+Mumbai,Vikhroli,2BHK,2,14900,160,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,3BHK,3,3900,230,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Lucknow,Vikas Nagar,2BHK,2,7800,170,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Malad,1BHK,1,28500,120,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Bengaluru,HSR Layout,3BHK,3,7400,300,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 18,1BHK,1,20000,120,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Lucknow,Vikas Nagar,3BHK,3,6500,390,Yes,Yes,No,No,Fully Furnished,Yes,No,Yes
+Gurugram,DLF Phase 3,3BHK,3,11300,280,Yes,Yes,No,No,Semi Furnished,No,No,Yes
+Pune,Wakad,3BHK,3,6900,180,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Lucknow,Chinhat,2BHK,2,7800,380,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Malad,1BHK,1,26500,150,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,No
+Delhi,Saket,2BHK,2,19500,310,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Malad,1BHK,1,20400,260,No,No,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 46,4BHK,4,9800,460,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,1BHK,1,27800,120,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Pune,Kharadi,2BHK,2,12500,220,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Bandra West,1BHK,1,27200,240,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 76,3BHK,3,8200,190,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Karol Bagh,3BHK,3,15600,350,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,3BHK,3,7500,440,Yes,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Hauz Khas,1BHK,1,21700,220,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Vijay Nagar,4BHK,4,10200,390,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,9100,200,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,Hadapsar,2BHK,2,10300,320,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Bengaluru,Whitefield,3BHK,3,8400,260,Yes,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Karol Bagh,3BHK,3,13000,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,3BHK,3,5600,230,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Gurugram,Sector 17,2BHK,2,14500,200,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Kukatpally,1BHK,1,14500,250,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,14200,340,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 27,3BHK,3,7600,470,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,BTM Layout,1BHK,1,19900,170,No,Yes,Yes,No,Fully Furnished,No,No,Yes
+Delhi,Dwarka,3BHK,3,10800,310,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Hyderabad,Begumpet,1BHK,1,13400,120,Yes,No,Yes,No,Semi Furnished,No,No,Yes
+Noida,Sector 27,1BHK,1,17400,200,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Indiranagar,2BHK,2,12900,240,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Kondapur,4BHK,4,5800,230,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,3BHK,3,13700,270,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Ashiyana,3BHK,3,5200,480,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Ashiyana,2BHK,2,8700,220,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,1BHK,1,29700,210,Yes,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,10700,150,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,1BHK,1,16100,220,No,Yes,No,Yes,Semi Furnished,No,No,Yes
+Gurugram,Sector 14,2BHK,2,10900,290,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Prayagraj,Katra,3BHK,3,4900,420,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Mumbai,Thane,3BHK,3,10700,190,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Jaipur,Raja Park,2BHK,2,7600,380,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 62,2BHK,2,9900,190,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,3BHK,3,11300,190,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Delhi,Dwarka,1BHK,1,21600,160,No,No,No,Yes,Unfurnished,Yes,No,No
+Noida,Sector 62,2BHK,2,10200,360,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Mukherjee Nagar,1BHK,1,26600,150,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Delhi,Saket,2BHK,2,16900,260,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Noida,Sector 16,3BHK,3,7500,480,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Saket,2BHK,2,16600,250,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Jaipur,Pratap Nagar,3BHK,3,5000,290,Yes,Yes,No,No,Semi Furnished,Yes,Yes,No
+Pune,FC Road,2BHK,2,8000,200,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Malviya Nagar,1BHK,1,11200,240,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Begumpet,3BHK,3,8700,470,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 16,2BHK,2,10300,310,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,14200,370,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Hazratganj,4BHK,4,4700,390,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,3BHK,3,5700,380,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Kothrud,3BHK,3,7200,230,Yes,Yes,No,No,Fully Furnished,Yes,Yes,No
+Hyderabad,Kondapur,1BHK,1,13800,150,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Noida,Sector 52,4BHK,4,7100,220,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 52,2BHK,2,10000,280,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Bengaluru,Bellandur,3BHK,3,8900,410,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Mumbai,Chembur,1BHK,1,27500,220,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 21,1BHK,1,19000,180,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Bengaluru,Whitefield,1BHK,1,20400,160,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Lucknow,Indira Nagar,2BHK,2,7300,280,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,13900,170,No,No,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,2BHK,2,8300,330,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Delhi,Hauz Khas,3BHK,3,13500,340,No,Yes,Yes,Yes,Fully Furnished,No,No,No
+Gurugram,Sector 46,2BHK,2,18300,260,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Mumbai,Goregaon,3BHK,3,14000,180,No,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Mumbai,Ghatkopar,3BHK,3,13500,220,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 51,3BHK,3,8800,400,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 63,3BHK,3,9700,310,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Chembur,3BHK,3,11700,400,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Miyapur,2BHK,2,8800,390,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 18,2BHK,2,8800,320,Yes,No,No,No,Fully Furnished,Yes,No,Yes
+Noida,Sector 15,1BHK,1,17400,160,No,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,2BHK,2,14300,230,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,No
+Noida,Sector 137,3BHK,3,6800,420,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 15,1BHK,1,25500,260,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Kukatpally,3BHK,3,6400,330,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Karol Bagh,3BHK,3,15100,220,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Ashiyana,3BHK,3,5000,360,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Gurugram,Sector 14,2BHK,2,16200,240,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Prayagraj,Dhoomanganj,3BHK,3,4200,320,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Prayagraj,Mumfordganj,2BHK,2,6500,370,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Old Katra,3BHK,3,4700,210,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Mumbai,Andheri West,1BHK,1,28100,280,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Vijay Nagar,3BHK,3,10100,260,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Bengaluru,Bellandur,3BHK,3,8200,250,Yes,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 52,1BHK,1,17400,260,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,C-Scheme,2BHK,2,7800,390,No,Yes,Yes,No,Semi Furnished,No,Yes,No
+Prayagraj,Salori,3BHK,3,5600,440,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 137,2BHK,2,7900,220,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Katra,3BHK,3,4000,490,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Karol Bagh,4BHK,4,10700,520,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Rajouri Garden,1BHK,1,25700,210,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Prayagraj,Salori,2BHK,2,6700,260,No,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,Wakad,3BHK,3,7900,490,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 16,1BHK,1,16900,210,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,1BHK,1,14700,250,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 14,2BHK,2,16000,300,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,2BHK,2,14200,390,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Salori,1BHK,1,9900,270,No,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Hauz Khas,1BHK,1,27400,250,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Begumpet,2BHK,2,8800,300,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Delhi,South Extension,2BHK,2,17500,190,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,4BHK,4,7600,570,Yes,Yes,Yes,No,Fully Furnished,No,Yes,No
+Jaipur,Gopalpura,2BHK,2,7000,320,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,George Town,1BHK,1,7800,260,No,Yes,No,Yes,Fully Furnished,Yes,No,No
+Hyderabad,Kukatpally,3BHK,3,5100,250,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Mumbai,Bandra West,2BHK,2,15000,240,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Gurugram,Sector 46,3BHK,3,13300,260,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 43,2BHK,2,13900,170,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,2BHK,2,6700,160,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,2BHK,2,13300,300,Yes,Yes,No,No,Semi Furnished,Yes,Yes,No
+Bengaluru,Koramangala,1BHK,1,16500,270,No,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Delhi,Laxmi Nagar,1BHK,1,24900,140,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Hebbal,1BHK,1,20700,220,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Hyderabad,Madhapur,4BHK,4,6500,350,Yes,No,No,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Rajouri Garden,1BHK,1,25700,180,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,12400,170,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 15,4BHK,4,12100,430,Yes,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Hitech City,2BHK,2,6600,290,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,2BHK,2,6500,390,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,16600,310,Yes,No,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Goregaon,2BHK,2,12900,320,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 137,1BHK,1,16200,150,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Civil Lines,2BHK,2,6100,210,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Jaipur,Mansarovar,3BHK,3,5600,440,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Lucknow,Mahanagar,3BHK,3,7500,180,Yes,No,Yes,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Goregaon,1BHK,1,30100,160,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 43,1BHK,1,20300,270,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 15,1BHK,1,23400,260,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 14,2BHK,2,14100,340,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Prayagraj,Naini,1BHK,1,11000,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Chinhat,1BHK,1,10600,150,Yes,Yes,No,No,Unfurnished,No,Yes,Yes
+Delhi,Saket,2BHK,2,13200,350,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Alambagh,3BHK,3,5800,390,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,2BHK,2,11900,170,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 51,2BHK,2,9200,270,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Bengaluru,Whitefield,3BHK,3,7400,360,Yes,No,No,No,Semi Furnished,Yes,No,Yes
+Gurugram,Sector 43,2BHK,2,13200,390,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,1BHK,1,25000,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Madhapur,2BHK,2,9500,210,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Pune,Kharadi,2BHK,2,10000,310,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Noida,Sector 62,1BHK,1,15900,260,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Rohini,4BHK,4,11300,550,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Lucknow,Chinhat,2BHK,2,7700,360,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Mumbai,Powai,1BHK,1,25800,150,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Saket,2BHK,2,15900,390,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 62,2BHK,2,11000,380,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Lucknow,Hazratganj,1BHK,1,13900,170,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 137,2BHK,2,9300,280,Yes,Yes,No,No,Fully Furnished,Yes,Yes,No
+Lucknow,Chinhat,2BHK,2,8300,360,No,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,2BHK,2,14700,280,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Hyderabad,Miyapur,4BHK,4,4400,230,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Pune,Viman Nagar,2BHK,2,12300,200,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,1BHK,1,9900,120,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 18,1BHK,1,15900,130,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Lucknow,Alambagh,2BHK,2,8400,160,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Karol Bagh,2BHK,2,17000,170,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 51,1BHK,1,15200,210,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 14,2BHK,2,12600,360,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,10700,240,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Bellandur,1BHK,1,17400,230,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Bengaluru,Electronic City,1BHK,1,16200,250,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Chembur,4BHK,4,11700,350,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,1BHK,1,25400,280,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,2BHK,2,7900,310,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Lucknow,Hazratganj,3BHK,3,4200,470,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,No
+Lucknow,Vikas Nagar,1BHK,1,14000,190,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,1BHK,1,26900,170,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Karol Bagh,4BHK,4,12000,410,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Begumpet,2BHK,2,8600,150,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Wakad,3BHK,3,8100,210,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Noida,Sector 62,3BHK,3,7500,370,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 43,1BHK,1,23900,240,No,Yes,No,No,Fully Furnished,Yes,No,Yes
+Hyderabad,Gachibowli,2BHK,2,8400,280,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Old Katra,2BHK,2,6500,380,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Gurugram,Sector 17,3BHK,3,11400,200,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,South Extension,1BHK,1,20100,140,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Jagatpura,1BHK,1,9600,120,No,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Mumbai,Andheri East,3BHK,3,13200,210,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,2BHK,2,14100,240,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,16800,240,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Bengaluru,JP Nagar,3BHK,3,7300,190,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Malad,1BHK,1,27500,280,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Vijay Nagar,1BHK,1,27700,130,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Chinhat,4BHK,4,4900,480,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,4BHK,4,5800,320,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,George Town,2BHK,2,6100,390,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Bandra West,1BHK,1,26100,190,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Hinjewadi,2BHK,2,10200,380,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,1BHK,1,20300,270,Yes,No,No,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 44,3BHK,3,11000,370,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,1BHK,1,30400,170,Yes,Yes,Yes,Yes,Semi Furnished,No,No,No
+Prayagraj,Naini,1BHK,1,8100,270,Yes,Yes,No,No,Semi Furnished,No,No,Yes
+Mumbai,Andheri West,1BHK,1,27700,130,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Gomti Nagar,2BHK,2,6300,270,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 15,2BHK,2,17500,250,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 62,3BHK,3,8100,280,No,Yes,Yes,Yes,Semi Furnished,No,No,No
+Gurugram,Sector 49,1BHK,1,21000,230,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Vikas Nagar,3BHK,3,6400,490,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Mumbai,Goregaon,2BHK,2,15800,320,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Wakad,2BHK,2,9100,230,No,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Bengaluru,Whitefield,3BHK,3,8100,290,No,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,1BHK,1,12000,290,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Lucknow,Gomti Nagar,2BHK,2,8300,240,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 51,2BHK,2,10500,350,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 137,3BHK,3,6800,270,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 16,2BHK,2,8700,220,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Naini,3BHK,3,5200,380,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Bengaluru,HSR Layout,1BHK,1,16500,170,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Kharadi,2BHK,2,10400,300,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,1BHK,1,16600,240,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,No
+Prayagraj,Old Katra,2BHK,2,5100,230,Yes,Yes,No,Yes,Semi Furnished,No,No,No
+Bengaluru,Electronic City,3BHK,3,8000,370,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Mumbai,Chembur,3BHK,3,10000,360,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Pune,Wakad,1BHK,1,14000,170,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Mumbai,Andheri West,3BHK,3,12700,190,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,George Town,2BHK,2,6500,210,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 15,1BHK,1,20100,240,Yes,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Jankipuram,3BHK,3,6600,340,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 76,4BHK,4,6700,520,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Ameerpet,1BHK,1,17300,190,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Kothrud,3BHK,3,8900,220,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Marathahalli,2BHK,2,10800,150,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,2BHK,2,13900,270,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Vijay Nagar,1BHK,1,27900,140,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,16800,290,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 15,4BHK,4,9600,230,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,4BHK,4,10700,540,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,3BHK,3,6500,430,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Aundh,3BHK,3,7700,460,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 15,2BHK,2,17900,190,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,18500,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Vikas Nagar,1BHK,1,14600,220,Yes,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Jaipur,Malviya Nagar,2BHK,2,6200,320,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Karol Bagh,2BHK,2,13800,350,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Mumbai,Thane,3BHK,3,12500,220,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,2BHK,2,8400,290,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Lucknow,Chinhat,3BHK,3,6300,360,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Kukatpally,1BHK,1,16100,130,Yes,Yes,Yes,Yes,Unfurnished,Yes,No,Yes
+Hyderabad,Miyapur,3BHK,3,7000,400,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Vikhroli,2BHK,2,17000,380,No,Yes,Yes,No,Semi Furnished,Yes,No,No
+Gurugram,Sector 21,4BHK,4,7900,500,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Dwarka,3BHK,3,10600,290,No,No,No,No,Fully Furnished,No,Yes,No
+Bengaluru,Electronic City,2BHK,2,12500,180,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 76,2BHK,2,11900,160,No,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,3BHK,3,9200,490,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 21,3BHK,3,12600,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,1BHK,1,21100,120,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Electronic City,2BHK,2,10800,340,Yes,No,No,Yes,Semi Furnished,No,No,Yes
+Hyderabad,Kukatpally,2BHK,2,10400,310,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 52,3BHK,3,9600,340,No,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Noida,Sector 16,2BHK,2,9900,240,Yes,No,No,Yes,Unfurnished,Yes,Yes,Yes
+Pune,Baner,2BHK,2,10700,200,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Rohini,3BHK,3,13300,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Tonk Road,3BHK,3,4800,320,No,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,1BHK,1,11300,270,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Andheri West,1BHK,1,26100,120,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Powai,2BHK,2,14500,280,No,No,Yes,Yes,Fully Furnished,No,No,Yes
+Gurugram,Sector 44,2BHK,2,12900,180,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Aliganj,2BHK,2,7000,330,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,4BHK,4,11400,320,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 15,1BHK,1,17600,230,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 14,2BHK,2,14700,340,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 18,1BHK,1,17200,140,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 43,2BHK,2,14800,360,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,9900,220,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Koramangala,1BHK,1,18200,250,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Lucknow,Gomti Nagar,2BHK,2,8000,300,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,1BHK,1,27200,140,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,1BHK,1,16400,250,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Jaipur,Vaishali Nagar,2BHK,2,7000,340,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 76,3BHK,3,8400,230,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 62,1BHK,1,18500,230,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Delhi,Laxmi Nagar,3BHK,3,10800,430,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Delhi,Karol Bagh,1BHK,1,29400,130,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,9700,360,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,13100,300,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,13900,380,Yes,No,Yes,Yes,Semi Furnished,No,Yes,No
+Noida,Sector 62,2BHK,2,9300,180,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Delhi,Saket,2BHK,2,16900,290,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Prayagraj,George Town,3BHK,3,4900,320,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,24500,290,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Jaipur,Gopalpura,3BHK,3,5800,220,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Marathahalli,2BHK,2,12300,320,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Ameerpet,1BHK,1,12300,150,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Alambagh,1BHK,1,14400,230,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Lucknow,Vikas Nagar,1BHK,1,12500,220,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Noida,Sector 52,3BHK,3,9300,380,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Lucknow,Jankipuram,3BHK,3,6100,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Allahpur,3BHK,3,4800,390,No,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Pune,Viman Nagar,2BHK,2,11200,230,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,George Town,2BHK,2,7300,390,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Hebbal,2BHK,2,10000,260,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,1BHK,1,26700,280,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Koramangala,4BHK,4,6900,470,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Mumbai,Bandra West,2BHK,2,14400,380,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 21,2BHK,2,13900,150,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Noida,Sector 137,3BHK,3,9000,440,No,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Mumbai,Goregaon,3BHK,3,12800,200,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 15,2BHK,2,10700,230,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,Hinjewadi,3BHK,3,9300,440,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Jaipur,Tonk Road,2BHK,2,8900,220,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 76,4BHK,4,6200,560,No,Yes,No,No,Semi Furnished,No,Yes,No
+Noida,Sector 16,2BHK,2,9200,320,No,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Mumbai,Chembur,2BHK,2,12100,250,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 137,1BHK,1,18800,280,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Delhi,Karol Bagh,2BHK,2,14200,330,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,3BHK,3,4300,490,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Jagatpura,3BHK,3,5600,250,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Pune,Kharadi,2BHK,2,11900,270,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 27,3BHK,3,7800,260,Yes,Yes,No,No,Fully Furnished,No,No,Yes
+Gurugram,Sector 17,2BHK,2,15100,360,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 44,4BHK,4,9000,460,No,No,No,Yes,Semi Furnished,No,Yes,No
+Mumbai,Vikhroli,1BHK,1,26000,230,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 63,1BHK,1,14100,270,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Hinjewadi,2BHK,2,9100,220,No,No,No,No,Semi Furnished,Yes,No,Yes
+Prayagraj,Katra,3BHK,3,5100,320,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,George Town,2BHK,2,5200,290,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Malad,2BHK,2,16000,300,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,C-Scheme,1BHK,1,9700,200,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,14000,220,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Begumpet,1BHK,1,14700,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Raja Park,3BHK,3,6400,200,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Jaipur,Jagatpura,2BHK,2,6800,270,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Hyderabad,Madhapur,3BHK,3,6800,410,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Laxmi Nagar,2BHK,2,18300,260,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 52,2BHK,2,11500,210,No,Yes,Yes,No,Semi Furnished,Yes,Yes,No
+Gurugram,Sector 17,4BHK,4,10000,430,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Dwarka,4BHK,4,11400,310,No,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Delhi,Mukherjee Nagar,2BHK,2,16000,310,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Bellandur,3BHK,3,10200,280,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,3BHK,3,12200,230,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Noida,Sector 76,1BHK,1,17100,230,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Lucknow,Aliganj,1BHK,1,13400,270,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Prayagraj,Katra,1BHK,1,9400,230,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,3BHK,3,7800,350,No,No,No,No,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,4BHK,4,8500,570,Yes,No,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Bellandur,3BHK,3,9500,270,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Delhi,Rohini,1BHK,1,24900,130,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,1BHK,1,11900,140,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Jagatpura,2BHK,2,7000,170,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,1BHK,1,10600,160,Yes,Yes,No,No,Unfurnished,Yes,No,No
+Bengaluru,Bellandur,2BHK,2,11400,380,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,3BHK,3,12500,290,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,FC Road,2BHK,2,9900,340,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Andheri West,3BHK,3,13100,230,Yes,No,No,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Gachibowli,1BHK,1,13900,200,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Pune,Kharadi,4BHK,4,5500,410,No,Yes,No,No,Unfurnished,No,Yes,Yes
+Jaipur,Raja Park,4BHK,4,5900,270,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 18,1BHK,1,19000,260,No,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Delhi,Vijay Nagar,2BHK,2,13500,250,Yes,Yes,No,No,Semi Furnished,Yes,No,No
+Noida,Sector 15,3BHK,3,9200,280,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,3BHK,3,7800,440,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,No
+Noida,Sector 27,2BHK,2,11600,290,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Begumpet,1BHK,1,11500,130,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Prayagraj,George Town,1BHK,1,10300,200,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 17,3BHK,3,10300,310,No,No,Yes,No,Unfurnished,No,No,Yes
+Delhi,Mukherjee Nagar,2BHK,2,15400,260,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Saket,3BHK,3,11100,340,No,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Jaipur,Mansarovar,4BHK,4,4900,250,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 63,1BHK,1,14300,280,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Kothrud,3BHK,3,7300,450,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Salori,2BHK,2,6400,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,1BHK,1,21100,140,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 18,1BHK,1,17600,240,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Thane,2BHK,2,14600,360,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,1BHK,1,22100,190,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Prayagraj,Ashok Nagar,2BHK,2,6100,370,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Delhi,Karol Bagh,1BHK,1,26200,250,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Pune,Viman Nagar,4BHK,4,6400,230,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 16,2BHK,2,9500,370,No,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Mumbai,Chembur,1BHK,1,26800,240,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Kondapur,1BHK,1,13000,210,Yes,Yes,No,No,Unfurnished,No,No,Yes
+Gurugram,DLF Phase 3,3BHK,3,11700,430,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 27,2BHK,2,8900,300,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,DLF Phase 2,1BHK,1,22200,120,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,2BHK,2,16800,170,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,3BHK,3,7300,400,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Baner,2BHK,2,10200,320,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,1BHK,1,23000,130,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Dwarka,2BHK,2,15800,270,Yes,No,Yes,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,12400,200,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Mahanagar,1BHK,1,12700,210,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Karol Bagh,1BHK,1,23400,150,Yes,Yes,Yes,Yes,Unfurnished,Yes,No,No
+Noida,Sector 18,1BHK,1,16100,240,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 21,2BHK,2,15400,240,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,3BHK,3,11900,380,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Pune,Hinjewadi,4BHK,4,7600,410,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Dwarka,1BHK,1,28300,210,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Noida,Sector 62,3BHK,3,8400,450,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,4BHK,4,12200,390,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Dwarka,2BHK,2,18600,350,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Karol Bagh,2BHK,2,17700,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Delhi,Laxmi Nagar,3BHK,3,10300,270,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,2BHK,2,8000,240,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,11800,170,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Gurugram,Sector 17,2BHK,2,15800,220,No,Yes,Yes,No,Semi Furnished,Yes,Yes,No
+Delhi,Dwarka,4BHK,4,12500,570,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Ashiyana,1BHK,1,14300,280,No,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Lucknow,Gomti Nagar,2BHK,2,8900,340,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Bengaluru,Koramangala,1BHK,1,14300,220,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Saket,1BHK,1,21700,290,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Lucknow,Hazratganj,3BHK,3,5800,380,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Mumbai,Powai,3BHK,3,12500,420,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Karol Bagh,2BHK,2,14900,310,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,JP Nagar,3BHK,3,11100,400,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 16,4BHK,4,7400,280,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,3BHK,3,9700,370,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 43,1BHK,1,23700,240,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Hadapsar,2BHK,2,11400,340,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Mumbai,Thane,1BHK,1,25600,250,No,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Pune,Hinjewadi,2BHK,2,9300,160,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 16,1BHK,1,18200,250,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,4BHK,4,6400,320,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,2BHK,2,14100,330,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,No
+Jaipur,C-Scheme,2BHK,2,7900,300,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,South Extension,1BHK,1,21900,180,No,Yes,No,No,Fully Furnished,No,Yes,No
+Jaipur,Gopalpura,3BHK,3,6000,480,Yes,No,Yes,No,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,1BHK,1,27300,160,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 15,3BHK,3,11500,200,Yes,Yes,Yes,No,Semi Furnished,No,Yes,No
+Delhi,Karol Bagh,2BHK,2,17100,190,Yes,Yes,Yes,Yes,Unfurnished,Yes,No,Yes
+Jaipur,Jagatpura,2BHK,2,6100,250,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,3BHK,3,8400,250,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Naini,2BHK,2,6700,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Prayagraj,Old Katra,4BHK,4,3400,240,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Lucknow,Gomti Nagar,2BHK,2,8500,150,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,FC Road,2BHK,2,8300,190,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Karol Bagh,1BHK,1,24100,180,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,3BHK,3,15400,200,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Vijay Nagar,3BHK,3,14300,300,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Rajouri Garden,1BHK,1,25400,200,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Dwarka,2BHK,2,18500,340,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 137,3BHK,3,7800,330,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Delhi,Karol Bagh,2BHK,2,19200,240,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Katra,2BHK,2,7700,330,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Begumpet,2BHK,2,10200,200,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Saket,2BHK,2,18300,200,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,14800,370,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,No
+Lucknow,Vikas Nagar,4BHK,4,5400,510,No,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 44,1BHK,1,28200,250,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,12500,280,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Delhi,Laxmi Nagar,4BHK,4,11100,470,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,3BHK,3,8600,200,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Noida,Sector 27,1BHK,1,16400,260,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Chembur,1BHK,1,28400,190,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Naini,1BHK,1,10100,120,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,3BHK,3,11300,430,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Dwarka,3BHK,3,11400,300,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,4BHK,4,8200,250,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Hitech City,3BHK,3,6700,320,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Lucknow,Chinhat,4BHK,4,5400,460,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Hitech City,2BHK,2,9500,250,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,14400,270,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Andheri West,2BHK,2,19100,380,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,1BHK,1,28500,210,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Tonk Road,2BHK,2,6600,300,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Vijay Nagar,4BHK,4,9800,510,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 62,1BHK,1,14700,220,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,16800,300,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Indiranagar,3BHK,3,8100,460,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Jaipur,Raja Park,4BHK,4,4400,330,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,6700,270,Yes,Yes,No,No,Semi Furnished,No,Yes,No
+Bengaluru,Electronic City,2BHK,2,9400,290,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,2BHK,2,10400,160,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Manikonda,3BHK,3,6800,400,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Gurugram,Sector 14,2BHK,2,17700,160,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Salori,2BHK,2,7500,200,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 63,4BHK,4,8300,310,Yes,No,No,Yes,Semi Furnished,Yes,No,No
+Delhi,Vijay Nagar,3BHK,3,12900,270,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,11300,380,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Dwarka,3BHK,3,11400,230,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,HSR Layout,4BHK,4,7600,340,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,12000,240,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Hyderabad,Kondapur,4BHK,4,5900,310,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,17200,300,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,13800,300,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Pune,Kharadi,1BHK,1,17200,130,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,2BHK,2,15800,160,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,3BHK,3,11900,380,No,Yes,No,Yes,Semi Furnished,No,Yes,No
+Pune,Baner,2BHK,2,9500,340,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Hebbal,2BHK,2,11500,210,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 18,2BHK,2,12600,180,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 3,3BHK,3,10100,440,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,4BHK,4,6700,390,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,1BHK,1,17000,200,No,Yes,No,Yes,Semi Furnished,No,No,Yes
+Delhi,Mukherjee Nagar,1BHK,1,24100,200,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Pune,FC Road,1BHK,1,16800,120,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Rohini,3BHK,3,14100,440,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,4BHK,4,5400,550,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Gurugram,Sector 44,1BHK,1,23000,150,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Pune,Koregaon Park,2BHK,2,12200,220,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,4BHK,4,3100,400,Yes,Yes,No,No,Semi Furnished,Yes,Yes,No
+Gurugram,Sector 44,3BHK,3,9700,450,No,Yes,No,No,Semi Furnished,No,No,No
+Mumbai,Andheri West,3BHK,3,13500,380,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Vaishali Nagar,1BHK,1,12000,250,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Hyderabad,Miyapur,2BHK,2,9500,290,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,Baner,4BHK,4,5200,310,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 62,2BHK,2,9200,330,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Bengaluru,BTM Layout,2BHK,2,11600,380,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Pratap Nagar,1BHK,1,12000,240,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,16100,270,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Gurugram,Sector 49,1BHK,1,25600,210,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Bengaluru,Whitefield,2BHK,2,12500,150,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,1BHK,1,12800,220,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Dwarka,1BHK,1,22800,250,Yes,Yes,No,No,Fully Furnished,No,No,No
+Lucknow,Chinhat,2BHK,2,8800,390,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Hyderabad,Begumpet,2BHK,2,8800,170,Yes,Yes,No,No,Semi Furnished,Yes,No,Yes
+Delhi,Laxmi Nagar,1BHK,1,21300,160,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,2BHK,2,14700,360,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,2BHK,2,6100,150,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 62,2BHK,2,9900,290,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Pune,Kharadi,1BHK,1,17800,130,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Bengaluru,Electronic City,2BHK,2,9000,200,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Pune,Kothrud,3BHK,3,9200,180,No,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Hyderabad,Secunderabad,1BHK,1,13500,190,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Gopalpura,3BHK,3,5800,400,Yes,Yes,No,Yes,Unfurnished,No,Yes,No
+Delhi,Vijay Nagar,1BHK,1,26800,230,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 63,3BHK,3,6300,270,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,2BHK,2,15100,300,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Delhi,Dwarka,3BHK,3,12000,260,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Lucknow,Chinhat,2BHK,2,10100,330,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 27,3BHK,3,9300,470,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Lucknow,Alambagh,4BHK,4,5900,240,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Lucknow,Indira Nagar,3BHK,3,5700,220,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Mumbai,Chembur,1BHK,1,24200,120,No,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Hyderabad,Gachibowli,3BHK,3,6700,430,Yes,Yes,Yes,Yes,Unfurnished,Yes,No,Yes
+Noida,Sector 76,2BHK,2,8100,310,No,Yes,No,No,Fully Furnished,No,Yes,Yes
+Jaipur,Gopalpura,4BHK,4,4500,290,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Katra,3BHK,3,4600,410,No,Yes,Yes,No,Unfurnished,No,Yes,No
+Noida,Sector 51,2BHK,2,7600,280,No,Yes,No,No,Fully Furnished,No,Yes,No
+Gurugram,Sector 46,4BHK,4,10100,280,No,No,No,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Chembur,2BHK,2,13800,300,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,3BHK,3,6700,220,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,DLF Phase 3,2BHK,2,15000,300,Yes,Yes,Yes,Yes,Semi Furnished,No,No,No
+Noida,Sector 15,4BHK,4,6200,500,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 15,1BHK,1,22700,180,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Pune,Kharadi,4BHK,4,7500,560,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Wakad,2BHK,2,11300,370,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Raja Park,2BHK,2,8000,160,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Prayagraj,Naini,3BHK,3,3700,350,No,Yes,Yes,Yes,Fully Furnished,No,No,No
+Noida,Sector 18,2BHK,2,10400,340,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,1BHK,1,22200,260,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Electronic City,1BHK,1,16900,260,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 16,3BHK,3,9900,450,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,Ashok Nagar,3BHK,3,3700,210,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,1BHK,1,21100,150,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Gurugram,Sector 44,3BHK,3,13600,430,Yes,No,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Old Katra,2BHK,2,5400,170,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Prayagraj,Ashok Nagar,3BHK,3,5000,380,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Hyderabad,Madhapur,1BHK,1,11900,150,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Miyapur,1BHK,1,15800,290,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Pune,Kothrud,3BHK,3,8300,490,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Bengaluru,Indiranagar,3BHK,3,7400,330,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Electronic City,2BHK,2,9800,380,No,No,Yes,No,Fully Furnished,No,Yes,Yes
+Lucknow,Alambagh,3BHK,3,4900,380,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,16000,390,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Lucknow,Ashiyana,2BHK,2,6800,270,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,C-Scheme,2BHK,2,5800,240,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 14,3BHK,3,11300,270,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Kondapur,2BHK,2,9600,230,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rajouri Garden,1BHK,1,26000,240,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,4BHK,4,11400,520,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Mansarovar,2BHK,2,6900,370,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Lucknow,Indira Nagar,2BHK,2,10100,260,Yes,No,Yes,No,Fully Furnished,Yes,No,Yes
+Bengaluru,Koramangala,4BHK,4,8600,310,Yes,No,Yes,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,1BHK,1,13500,130,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 137,1BHK,1,20400,140,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Whitefield,3BHK,3,8200,340,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Noida,Sector 16,3BHK,3,9200,420,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 15,2BHK,2,8400,270,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Old Katra,2BHK,2,5900,260,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Gomti Nagar,2BHK,2,8800,390,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Lucknow,Hazratganj,2BHK,2,9400,310,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Mumbai,Bandra West,1BHK,1,25200,120,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 51,2BHK,2,10200,150,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,11000,320,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Pune,Kothrud,1BHK,1,17300,270,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,1BHK,1,26900,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,14100,340,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Jaipur,Tonk Road,3BHK,3,6700,260,Yes,Yes,Yes,No,Semi Furnished,No,No,No
+Delhi,Mukherjee Nagar,2BHK,2,18800,190,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 46,2BHK,2,15200,330,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,17200,270,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Mumbai,Powai,3BHK,3,14800,350,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,2BHK,2,6900,270,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Electronic City,1BHK,1,17600,270,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Mumfordganj,1BHK,1,10400,200,No,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Mansarovar,3BHK,3,5000,230,No,Yes,No,No,Fully Furnished,Yes,Yes,No
+Pune,Hinjewadi,2BHK,2,11200,180,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Ghatkopar,4BHK,4,11200,330,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 51,2BHK,2,12000,270,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Noida,Sector 51,2BHK,2,9100,240,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Jagatpura,4BHK,4,4600,590,No,No,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Saket,2BHK,2,13800,170,No,No,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Hebbal,3BHK,3,9600,420,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,BTM Layout,3BHK,3,8100,330,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Lucknow,Alambagh,2BHK,2,7700,220,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,17200,170,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Hinjewadi,4BHK,4,7400,540,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Jaipur,Vaishali Nagar,2BHK,2,7100,200,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,8200,370,No,Yes,Yes,No,Fully Furnished,No,No,Yes
+Noida,Sector 63,3BHK,3,7900,390,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,2BHK,2,5000,290,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Prayagraj,Dhoomanganj,3BHK,3,4600,400,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,2BHK,2,7300,330,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,12700,270,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 49,3BHK,3,12200,260,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Gurugram,DLF Phase 2,4BHK,4,9700,450,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,3BHK,3,10300,440,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Gurugram,Sector 15,1BHK,1,26300,220,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Miyapur,3BHK,3,6600,470,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Sodala,3BHK,3,5300,460,Yes,Yes,No,No,Semi Furnished,No,No,Yes
+Pune,Wakad,1BHK,1,17200,120,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Gachibowli,1BHK,1,14400,140,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,3BHK,3,6400,230,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Sodala,2BHK,2,7100,390,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Prayagraj,Katra,3BHK,3,3600,450,No,No,No,No,Fully Furnished,No,Yes,Yes
+Delhi,South Extension,2BHK,2,16200,270,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,1BHK,1,11800,290,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 44,3BHK,3,10700,280,No,No,No,No,Semi Furnished,Yes,Yes,No
+Jaipur,Tonk Road,2BHK,2,8400,340,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Malviya Nagar,2BHK,2,7000,250,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Lucknow,Mahanagar,2BHK,2,8400,180,Yes,No,No,Yes,Semi Furnished,Yes,No,Yes
+Lucknow,Ashiyana,1BHK,1,15900,240,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,Mumfordganj,2BHK,2,6200,340,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Sodala,4BHK,4,3900,220,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Vikhroli,2BHK,2,16300,190,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,Hadapsar,3BHK,3,8400,300,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Lucknow,Jankipuram,2BHK,2,7900,390,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Bengaluru,Whitefield,4BHK,4,7100,340,No,Yes,No,No,Fully Furnished,No,No,Yes
+Lucknow,Hazratganj,3BHK,3,6100,410,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,3BHK,3,12600,300,No,Yes,Yes,Yes,Semi Furnished,Yes,No,No
+Gurugram,DLF Phase 3,2BHK,2,16500,270,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 62,1BHK,1,19100,260,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Delhi,Rohini,1BHK,1,23600,250,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,3BHK,3,11600,440,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 76,4BHK,4,7300,520,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 52,2BHK,2,10200,150,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,3BHK,3,9500,400,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Prayagraj,Civil Lines,2BHK,2,6400,310,No,Yes,Yes,Yes,Fully Furnished,Yes,No,No
+Bengaluru,Marathahalli,4BHK,4,6400,320,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,2BHK,2,10100,150,No,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Mumbai,Malad,2BHK,2,14900,240,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,DLF Phase 3,4BHK,4,9400,500,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,No
+Delhi,Karol Bagh,3BHK,3,13700,490,No,Yes,Yes,Yes,Semi Furnished,Yes,No,No
+Lucknow,Indira Nagar,3BHK,3,6400,370,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Hadapsar,2BHK,2,10600,310,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Mumbai,Thane,2BHK,2,14400,390,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Dwarka,2BHK,2,18500,360,Yes,Yes,Yes,Yes,Semi Furnished,No,No,No
+Delhi,Dwarka,2BHK,2,13600,260,Yes,Yes,No,No,Semi Furnished,No,Yes,No
+Hyderabad,Begumpet,3BHK,3,7300,400,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Gurugram,Sector 14,2BHK,2,13300,150,No,Yes,No,Yes,Unfurnished,Yes,No,Yes
+Bengaluru,Koramangala,2BHK,2,10200,350,Yes,Yes,No,No,Fully Furnished,Yes,No,Yes
+Mumbai,Andheri West,2BHK,2,16000,160,Yes,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,4BHK,4,4200,520,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Secunderabad,2BHK,2,8600,220,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 17,4BHK,4,11200,390,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Delhi,Rohini,2BHK,2,14400,150,No,Yes,Yes,No,Semi Furnished,No,No,No
+Lucknow,Gomti Nagar,1BHK,1,10500,160,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Noida,Sector 15,1BHK,1,19200,200,Yes,No,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,1BHK,1,23100,290,No,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Gurugram,DLF Phase 3,4BHK,4,9400,240,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Bengaluru,Whitefield,1BHK,1,18500,140,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 15,1BHK,1,24300,130,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 16,4BHK,4,7000,440,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,1BHK,1,11200,140,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Lucknow,Jankipuram,2BHK,2,6800,380,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Pune,Wakad,1BHK,1,17300,230,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,1BHK,1,26300,170,No,Yes,Yes,Yes,Semi Furnished,Yes,No,No
+Delhi,Laxmi Nagar,1BHK,1,28300,190,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Noida,Sector 62,1BHK,1,16400,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Andheri East,3BHK,3,11500,490,Yes,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Prayagraj,Dhoomanganj,3BHK,3,5000,340,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 49,2BHK,2,14900,260,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Goregaon,2BHK,2,16800,370,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,1BHK,1,24800,240,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Ashiyana,2BHK,2,8200,370,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,11300,150,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Mumbai,Chembur,1BHK,1,21300,210,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 3,2BHK,2,13700,160,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,10000,180,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Pune,Hadapsar,2BHK,2,12700,240,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Saket,4BHK,4,8900,340,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 76,2BHK,2,12500,240,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,South Extension,2BHK,2,17100,160,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Civil Lines,3BHK,3,5400,330,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,C-Scheme,2BHK,2,7100,230,Yes,No,Yes,Yes,Fully Furnished,No,Yes,No
+Bengaluru,Bellandur,4BHK,4,7500,420,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,2BHK,2,17400,290,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Chembur,4BHK,4,11400,260,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Goregaon,2BHK,2,15400,180,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Gurugram,Sector 43,3BHK,3,9900,200,No,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Lucknow,Chinhat,3BHK,3,5900,330,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,23200,290,No,No,Yes,No,Fully Furnished,No,Yes,Yes
+Lucknow,Vikas Nagar,1BHK,1,13500,120,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Hitech City,3BHK,3,7900,360,No,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Laxmi Nagar,3BHK,3,11900,440,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 18,3BHK,3,9500,180,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Mumbai,Chembur,1BHK,1,23900,140,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Prayagraj,Katra,1BHK,1,8400,180,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 27,1BHK,1,17100,260,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Mumfordganj,2BHK,2,5400,220,No,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 43,2BHK,2,13700,240,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Electronic City,1BHK,1,22800,170,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,2BHK,2,12900,350,Yes,Yes,No,No,Fully Furnished,No,Yes,No
+Jaipur,Vaishali Nagar,3BHK,3,5000,250,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Jaipur,Vaishali Nagar,1BHK,1,11200,180,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Pune,FC Road,2BHK,2,10600,220,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Mumbai,Bandra West,1BHK,1,26700,190,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 15,2BHK,2,8600,230,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Karol Bagh,1BHK,1,27500,220,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 63,2BHK,2,10700,300,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Pune,FC Road,1BHK,1,14600,130,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Pune,Koregaon Park,2BHK,2,11800,190,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Electronic City,3BHK,3,8700,430,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 15,2BHK,2,9000,190,No,Yes,Yes,Yes,Unfurnished,No,Yes,No
+Noida,Sector 63,1BHK,1,15100,130,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 63,2BHK,2,10400,270,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Dwarka,1BHK,1,29000,180,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Chinhat,2BHK,2,7300,330,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Jaipur,Gopalpura,4BHK,4,4000,310,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Hyderabad,Kondapur,2BHK,2,9000,250,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Allahpur,2BHK,2,6300,370,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Mumbai,Vikhroli,2BHK,2,15100,390,No,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Delhi,Vijay Nagar,2BHK,2,15500,340,Yes,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Teliarganj,3BHK,3,5500,450,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Old Katra,3BHK,3,4200,340,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,2BHK,2,6100,280,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Secunderabad,4BHK,4,5500,290,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Hadapsar,3BHK,3,6900,310,Yes,No,No,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 49,4BHK,4,8500,530,No,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Bengaluru,Bellandur,2BHK,2,10500,190,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Katra,1BHK,1,9600,140,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,21200,190,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Prayagraj,Ashok Nagar,1BHK,1,10400,180,Yes,Yes,Yes,No,Fully Furnished,No,Yes,No
+Bengaluru,HSR Layout,2BHK,2,10400,170,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Chembur,2BHK,2,14900,360,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 21,3BHK,3,11600,270,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Gurugram,Sector 44,2BHK,2,14100,290,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 44,3BHK,3,11500,380,Yes,No,No,Yes,Unfurnished,Yes,Yes,No
+Jaipur,Sodala,1BHK,1,12700,280,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Pune,Baner,2BHK,2,11800,160,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,2BHK,2,10100,320,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Hadapsar,3BHK,3,7900,210,Yes,No,Yes,Yes,Semi Furnished,Yes,No,Yes
+Noida,Sector 18,1BHK,1,18500,180,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 49,1BHK,1,25800,250,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Gopalpura,4BHK,4,4800,360,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Jaipur,C-Scheme,3BHK,3,5100,450,Yes,Yes,No,Yes,Semi Furnished,No,Yes,No
+Lucknow,Gomti Nagar,3BHK,3,7400,240,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,2BHK,2,9900,290,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Gurugram,DLF Phase 2,1BHK,1,30500,230,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,10400,210,Yes,Yes,Yes,No,Semi Furnished,No,No,Yes
+Bengaluru,HSR Layout,2BHK,2,10800,230,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,3BHK,3,4400,340,Yes,No,No,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 44,1BHK,1,22500,250,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Delhi,Vijay Nagar,2BHK,2,18900,300,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Gurugram,Sector 46,2BHK,2,14600,240,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Prayagraj,Allahpur,2BHK,2,5000,280,No,No,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,1BHK,1,13800,230,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,1BHK,1,26900,220,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 21,3BHK,3,10300,240,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Mumbai,Chembur,2BHK,2,15500,370,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,16900,340,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 27,3BHK,3,6800,300,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,14600,170,No,No,No,No,Semi Furnished,No,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,17100,220,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Lucknow,Alambagh,4BHK,4,6500,490,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Aliganj,4BHK,4,5800,590,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Hazratganj,2BHK,2,9100,160,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Saket,2BHK,2,15500,220,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Koregaon Park,2BHK,2,9900,150,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Electronic City,2BHK,2,8200,170,Yes,Yes,No,Yes,Unfurnished,No,No,Yes
+Prayagraj,Ashok Nagar,4BHK,4,3700,350,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Lucknow,Alambagh,2BHK,2,7400,260,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 43,3BHK,3,13300,460,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Jaipur,Jagatpura,2BHK,2,6900,290,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Chembur,2BHK,2,13700,150,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,3BHK,3,11500,220,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Civil Lines,2BHK,2,6200,330,Yes,No,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Marathahalli,2BHK,2,11300,290,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Delhi,Laxmi Nagar,4BHK,4,12200,320,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Kukatpally,3BHK,3,5500,290,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Whitefield,1BHK,1,20000,180,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 16,2BHK,2,11500,200,Yes,No,Yes,Yes,Semi Furnished,Yes,No,Yes
+Prayagraj,Salori,2BHK,2,5700,380,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,11200,280,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Lucknow,Hazratganj,1BHK,1,14600,180,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,HSR Layout,4BHK,4,7000,490,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 15,3BHK,3,7200,250,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Kharadi,3BHK,3,8000,430,Yes,Yes,No,No,Unfurnished,No,Yes,No
+Hyderabad,Begumpet,1BHK,1,14000,190,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,4BHK,4,7800,390,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,16400,220,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Jaipur,Vaishali Nagar,1BHK,1,12400,230,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Sodala,2BHK,2,7900,270,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,2BHK,2,12900,310,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Hauz Khas,3BHK,3,12800,370,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Secunderabad,1BHK,1,14800,280,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 14,2BHK,2,12800,310,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,3BHK,3,5800,270,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Aundh,3BHK,3,7200,440,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Jaipur,Vaishali Nagar,3BHK,3,5900,420,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Sodala,4BHK,4,4100,240,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 51,3BHK,3,7300,430,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Mumfordganj,2BHK,2,7400,300,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 43,1BHK,1,24900,230,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 18,3BHK,3,7500,460,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 63,3BHK,3,6900,340,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 15,1BHK,1,16600,180,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Delhi,Rohini,2BHK,2,13700,390,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,3BHK,3,14300,230,No,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Saket,2BHK,2,15900,190,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Lucknow,Hazratganj,3BHK,3,5900,300,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Chinhat,2BHK,2,8700,350,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Bengaluru,BTM Layout,3BHK,3,8100,220,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 18,1BHK,1,18400,210,No,Yes,Yes,Yes,Fully Furnished,Yes,No,No
+Lucknow,Hazratganj,4BHK,4,5900,520,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 18,3BHK,3,9200,490,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,2BHK,2,17100,220,No,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Old Katra,1BHK,1,9000,160,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Jaipur,Jagatpura,1BHK,1,10700,260,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Dwarka,3BHK,3,14200,400,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Hyderabad,Gachibowli,2BHK,2,8500,200,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Jaipur,Malviya Nagar,2BHK,2,7200,340,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Gurugram,DLF Phase 2,3BHK,3,12500,420,No,Yes,Yes,Yes,Semi Furnished,Yes,No,No
+Bengaluru,Hebbal,1BHK,1,18600,150,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 51,2BHK,2,10900,240,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Mukherjee Nagar,4BHK,4,12600,450,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Katra,1BHK,1,8100,190,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Chinhat,2BHK,2,7200,270,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Pune,FC Road,3BHK,3,6300,180,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 44,3BHK,3,12700,240,No,No,Yes,No,Fully Furnished,No,No,Yes
+Gurugram,Sector 44,2BHK,2,14000,190,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Kondapur,1BHK,1,14700,290,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 46,3BHK,3,10900,380,Yes,No,Yes,Yes,Semi Furnished,Yes,Yes,No
+Mumbai,Powai,4BHK,4,8900,560,No,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Laxmi Nagar,2BHK,2,15700,310,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Laxmi Nagar,2BHK,2,17200,330,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Pune,Aundh,2BHK,2,11700,330,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Koregaon Park,1BHK,1,16200,160,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Mumbai,Vikhroli,4BHK,4,10100,450,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Gomti Nagar,2BHK,2,8200,300,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Teliarganj,1BHK,1,9600,200,No,Yes,Yes,No,Fully Furnished,No,Yes,No
+Mumbai,Ghatkopar,4BHK,4,10400,360,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Dwarka,2BHK,2,16600,330,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,2BHK,2,7300,210,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Naini,3BHK,3,4500,340,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Mumbai,Andheri West,3BHK,3,11900,450,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Hyderabad,Begumpet,3BHK,3,6500,350,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,DLF Phase 2,4BHK,4,9800,490,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,1BHK,1,19800,240,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 15,3BHK,3,8400,270,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Noida,Sector 51,2BHK,2,11200,300,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Koramangala,3BHK,3,9500,220,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,10200,320,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Hyderabad,Begumpet,3BHK,3,6100,300,No,Yes,No,Yes,Unfurnished,Yes,Yes,No
+Mumbai,Ghatkopar,3BHK,3,10900,240,Yes,Yes,Yes,Yes,Fully Furnished,No,No,No
+Noida,Sector 63,2BHK,2,8700,310,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Mumbai,Powai,4BHK,4,11900,300,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Tagore Town,2BHK,2,5300,170,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,1BHK,1,15800,190,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,14300,160,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Jaipur,Tonk Road,2BHK,2,8300,280,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Gopalpura,2BHK,2,6400,220,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,2BHK,2,15100,370,No,No,No,Yes,Fully Furnished,Yes,No,Yes
+Prayagraj,Allahpur,3BHK,3,4300,330,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Malad,1BHK,1,29800,120,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 27,2BHK,2,8300,280,No,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Gurugram,Sector 14,4BHK,4,10000,250,No,Yes,No,Yes,Semi Furnished,No,No,Yes
+Hyderabad,Miyapur,4BHK,4,4500,400,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Dhoomanganj,3BHK,3,5000,410,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Manikonda,3BHK,3,7300,360,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Prayagraj,Katra,1BHK,1,9000,210,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Mumbai,Thane,1BHK,1,22600,220,Yes,No,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,26000,190,No,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 46,3BHK,3,10700,190,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Hyderabad,Kukatpally,4BHK,4,5600,480,Yes,No,Yes,No,Semi Furnished,Yes,No,Yes
+Delhi,Hauz Khas,1BHK,1,25500,120,No,No,Yes,No,Unfurnished,Yes,Yes,No
+Delhi,Dwarka,2BHK,2,14900,170,No,Yes,No,Yes,Unfurnished,Yes,No,Yes
+Bengaluru,Electronic City,2BHK,2,12200,190,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 27,1BHK,1,16300,120,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Mumbai,Bandra West,3BHK,3,12400,490,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Pune,FC Road,2BHK,2,10300,170,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rajouri Garden,1BHK,1,24100,240,Yes,Yes,No,No,Fully Furnished,No,No,Yes
+Delhi,Rohini,1BHK,1,21400,220,No,Yes,No,No,Unfurnished,No,Yes,No
+Gurugram,Sector 14,4BHK,4,11200,440,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Tagore Town,1BHK,1,11100,120,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Hinjewadi,2BHK,2,10700,210,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 137,4BHK,4,7000,320,Yes,No,Yes,Yes,Unfurnished,Yes,No,Yes
+Bengaluru,Indiranagar,2BHK,2,13000,150,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Thane,2BHK,2,15500,220,Yes,Yes,No,No,Semi Furnished,Yes,No,Yes
+Gurugram,Sector 17,1BHK,1,23700,230,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Mumbai,Ghatkopar,3BHK,3,13200,410,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 21,3BHK,3,11000,440,No,Yes,No,No,Semi Furnished,Yes,Yes,No
+Bengaluru,Whitefield,1BHK,1,15100,180,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Vaishali Nagar,1BHK,1,11400,280,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Mansarovar,2BHK,2,5800,300,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,1BHK,1,14800,200,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Secunderabad,1BHK,1,14800,260,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Baner,1BHK,1,16800,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Bengaluru,HSR Layout,2BHK,2,12600,230,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Lucknow,Chinhat,1BHK,1,12500,290,Yes,Yes,Yes,No,Fully Furnished,No,No,Yes
+Delhi,Mukherjee Nagar,3BHK,3,12000,180,Yes,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Prayagraj,Mumfordganj,2BHK,2,5900,370,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Jaipur,Sodala,2BHK,2,7400,230,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Lucknow,Aliganj,1BHK,1,12800,150,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Marathahalli,1BHK,1,18700,130,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Lucknow,Aliganj,2BHK,2,7300,300,No,Yes,No,No,Semi Furnished,Yes,No,Yes
+Lucknow,Gomti Nagar,1BHK,1,14700,170,Yes,No,Yes,No,Semi Furnished,No,No,Yes
+Delhi,Hauz Khas,2BHK,2,15800,280,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Powai,1BHK,1,22600,160,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Electronic City,3BHK,3,9400,210,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 16,1BHK,1,14200,220,No,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Jaipur,Jagatpura,2BHK,2,6600,360,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Kothrud,1BHK,1,16600,200,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Ameerpet,3BHK,3,6800,480,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,South Extension,4BHK,4,8400,550,No,Yes,No,Yes,Unfurnished,Yes,Yes,No
+Hyderabad,Begumpet,4BHK,4,7200,240,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Secunderabad,1BHK,1,13300,230,Yes,Yes,No,Yes,Semi Furnished,No,No,No
+Gurugram,DLF Phase 2,1BHK,1,22100,230,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,Bellandur,2BHK,2,10500,210,Yes,No,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Gopalpura,3BHK,3,5600,450,No,Yes,No,Yes,Fully Furnished,No,No,Yes
+Delhi,Dwarka,1BHK,1,22700,190,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Karol Bagh,1BHK,1,23300,220,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 18,2BHK,2,8600,280,No,Yes,No,No,Semi Furnished,Yes,Yes,No
+Mumbai,Vikhroli,3BHK,3,14400,270,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Delhi,Mukherjee Nagar,2BHK,2,13300,180,Yes,Yes,Yes,No,Unfurnished,No,Yes,Yes
+Mumbai,Ghatkopar,3BHK,3,9300,180,Yes,No,No,No,Unfurnished,Yes,Yes,Yes
+Jaipur,Gopalpura,2BHK,2,6300,230,Yes,No,Yes,No,Fully Furnished,No,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,10400,290,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,14500,200,Yes,No,No,Yes,Semi Furnished,Yes,No,No
+Prayagraj,Ashok Nagar,2BHK,2,7700,370,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Koramangala,3BHK,3,8400,450,Yes,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Prayagraj,George Town,3BHK,3,4300,360,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,2BHK,2,10000,290,No,Yes,No,Yes,Unfurnished,No,Yes,No
+Delhi,Dwarka,2BHK,2,15800,270,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Pune,Koregaon Park,3BHK,3,8700,350,Yes,Yes,No,No,Fully Furnished,Yes,No,Yes
+Lucknow,Aliganj,1BHK,1,11800,160,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Bengaluru,HSR Layout,1BHK,1,16600,150,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Lucknow,Jankipuram,4BHK,4,5400,500,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Mumbai,Bandra West,2BHK,2,16500,150,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Gurugram,Sector 14,2BHK,2,17000,250,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 137,3BHK,3,7600,340,Yes,Yes,No,Yes,Unfurnished,No,No,No
+Bengaluru,Koramangala,1BHK,1,14100,120,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Mukherjee Nagar,2BHK,2,16100,250,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Hinjewadi,3BHK,3,9200,230,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Hyderabad,Kondapur,3BHK,3,7700,460,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Saket,1BHK,1,27300,130,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 63,3BHK,3,9500,300,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,4BHK,4,9400,480,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Vikhroli,1BHK,1,23600,200,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Mumbai,Vikhroli,2BHK,2,16600,280,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 46,2BHK,2,14100,350,No,Yes,No,No,Fully Furnished,Yes,No,Yes
+Lucknow,Indira Nagar,2BHK,2,7700,200,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 51,3BHK,3,8700,270,Yes,Yes,No,Yes,Unfurnished,No,No,Yes
+Bengaluru,Indiranagar,2BHK,2,12100,300,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Jaipur,Malviya Nagar,1BHK,1,12000,280,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,No
+Delhi,Laxmi Nagar,2BHK,2,17500,150,No,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Mumbai,Vikhroli,3BHK,3,13600,290,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Mumbai,Chembur,4BHK,4,8700,290,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,3BHK,3,9500,270,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Prayagraj,Tagore Town,2BHK,2,4600,220,No,Yes,No,Yes,Unfurnished,No,Yes,No
+Mumbai,Ghatkopar,2BHK,2,14300,150,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Gurugram,Sector 46,2BHK,2,15300,230,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Wakad,2BHK,2,11300,330,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 137,1BHK,1,17300,150,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Hinjewadi,2BHK,2,8900,390,No,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Rohini,2BHK,2,14400,180,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Jaipur,Pratap Nagar,2BHK,2,8000,170,Yes,Yes,No,Yes,Fully Furnished,No,No,Yes
+Jaipur,Mansarovar,3BHK,3,5300,220,No,No,No,Yes,Fully Furnished,No,Yes,No
+Gurugram,Sector 46,3BHK,3,9500,450,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Delhi,Karol Bagh,2BHK,2,16700,220,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,13900,370,Yes,No,Yes,Yes,Fully Furnished,Yes,No,Yes
+Hyderabad,Kondapur,2BHK,2,7700,210,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Ashok Nagar,3BHK,3,4700,360,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Saket,2BHK,2,15500,190,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Ashiyana,3BHK,3,6400,300,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Vijay Nagar,2BHK,2,13000,340,Yes,Yes,Yes,Yes,Unfurnished,Yes,No,Yes
+Delhi,Karol Bagh,3BHK,3,10800,260,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Marathahalli,1BHK,1,18600,240,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Noida,Sector 16,2BHK,2,12100,340,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Laxmi Nagar,1BHK,1,26100,200,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Jaipur,Jagatpura,1BHK,1,9900,210,Yes,No,Yes,Yes,Unfurnished,Yes,No,Yes
+Delhi,South Extension,2BHK,2,12700,330,No,Yes,No,Yes,Semi Furnished,No,No,Yes
+Hyderabad,Kondapur,1BHK,1,12100,150,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Vikas Nagar,3BHK,3,6800,240,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Vijay Nagar,2BHK,2,16500,240,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Miyapur,2BHK,2,7900,150,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Mumbai,Malad,1BHK,1,25000,270,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Mumbai,Ghatkopar,2BHK,2,14800,390,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Jaipur,Raja Park,2BHK,2,6100,330,Yes,No,No,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Hitech City,1BHK,1,17700,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 18,1BHK,1,20200,220,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Electronic City,2BHK,2,9600,330,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Lucknow,Indira Nagar,2BHK,2,9100,350,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,Hebbal,2BHK,2,10700,200,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Delhi,Rohini,2BHK,2,19500,330,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 46,3BHK,3,11400,260,Yes,Yes,No,No,Semi Furnished,Yes,Yes,No
+Delhi,South Extension,1BHK,1,23900,290,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Dwarka,1BHK,1,25800,170,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 43,3BHK,3,10500,250,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Thane,1BHK,1,27000,250,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Old Katra,1BHK,1,8700,180,Yes,No,No,No,Fully Furnished,Yes,No,No
+Bengaluru,BTM Layout,2BHK,2,11700,150,Yes,No,No,Yes,Fully Furnished,No,No,Yes
+Hyderabad,Hitech City,2BHK,2,9400,330,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,2BHK,2,8900,170,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Kondapur,1BHK,1,11200,140,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Pune,Viman Nagar,3BHK,3,8000,290,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,12600,290,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 63,3BHK,3,8200,310,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kondapur,2BHK,2,9000,330,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Jaipur,Mansarovar,2BHK,2,6800,160,Yes,No,No,Yes,Fully Furnished,No,No,Yes
+Pune,Hadapsar,2BHK,2,11500,190,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Mumbai,Goregaon,2BHK,2,13400,390,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Pune,Hadapsar,1BHK,1,19600,190,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Gurugram,Sector 43,3BHK,3,12500,310,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Koramangala,2BHK,2,12200,300,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Pune,Viman Nagar,3BHK,3,9300,430,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,JP Nagar,1BHK,1,20100,160,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 27,3BHK,3,9900,340,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 49,4BHK,4,11700,390,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Secunderabad,1BHK,1,13900,160,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Ameerpet,3BHK,3,7900,350,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 43,1BHK,1,20500,170,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Pune,Aundh,3BHK,3,8100,250,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Hadapsar,2BHK,2,11100,240,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Prayagraj,Mumfordganj,2BHK,2,5200,190,No,Yes,No,No,Semi Furnished,Yes,No,Yes
+Gurugram,Sector 15,3BHK,3,11400,420,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,3BHK,3,9600,400,No,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Pune,Viman Nagar,2BHK,2,9400,300,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kondapur,3BHK,3,7200,310,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kukatpally,1BHK,1,16300,260,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Mansarovar,1BHK,1,11500,290,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Mumbai,Vikhroli,1BHK,1,28700,120,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Pune,Baner,2BHK,2,9500,360,No,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kondapur,1BHK,1,13600,120,Yes,Yes,Yes,No,Semi Furnished,Yes,No,Yes
+Pune,Kharadi,2BHK,2,8400,290,No,Yes,No,No,Fully Furnished,Yes,No,Yes
+Hyderabad,Miyapur,2BHK,2,8500,370,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Pune,Kharadi,4BHK,4,7100,510,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Mumbai,Malad,1BHK,1,23600,180,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Andheri East,2BHK,2,16100,390,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Bengaluru,Whitefield,3BHK,3,8200,370,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Chembur,3BHK,3,13800,470,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 21,3BHK,3,12400,490,Yes,Yes,No,Yes,Fully Furnished,Yes,No,No
+Gurugram,DLF Phase 3,2BHK,2,14500,240,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Mumfordganj,2BHK,2,6200,150,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Mumbai,Powai,1BHK,1,24200,200,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 14,2BHK,2,12500,250,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 21,2BHK,2,14100,320,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 49,2BHK,2,14700,170,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Jagatpura,3BHK,3,5200,230,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Pune,Kharadi,3BHK,3,7700,380,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Jaipur,Vaishali Nagar,3BHK,3,5800,260,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 16,1BHK,1,16100,230,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Prayagraj,George Town,1BHK,1,10200,140,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Noida,Sector 27,4BHK,4,5500,560,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Jaipur,Vaishali Nagar,1BHK,1,10200,130,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 49,1BHK,1,22200,240,Yes,Yes,No,No,Semi Furnished,Yes,No,No
+Mumbai,Vikhroli,1BHK,1,26400,180,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Hitech City,1BHK,1,16300,240,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Noida,Sector 27,1BHK,1,15200,160,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Delhi,Vijay Nagar,3BHK,3,11000,380,No,Yes,No,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Mumfordganj,2BHK,2,5200,220,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Gurugram,Sector 14,1BHK,1,24300,290,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Pune,Hadapsar,3BHK,3,9200,480,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 2,2BHK,2,17100,340,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,No
+Lucknow,Gomti Nagar,3BHK,3,8200,370,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Bengaluru,Bellandur,1BHK,1,15700,210,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,1BHK,1,13600,170,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Gomti Nagar,4BHK,4,4900,390,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Bengaluru,BTM Layout,3BHK,3,6200,210,Yes,Yes,Yes,No,Unfurnished,No,No,Yes
+Prayagraj,Tagore Town,2BHK,2,5500,310,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Delhi,Laxmi Nagar,2BHK,2,13100,270,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 63,1BHK,1,21000,120,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,1BHK,1,24500,290,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Ashiyana,3BHK,3,6700,470,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 62,2BHK,2,9500,250,Yes,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Gurugram,DLF Phase 2,3BHK,3,10300,380,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Mumbai,Goregaon,3BHK,3,14700,410,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Jagatpura,3BHK,3,5700,430,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Naini,1BHK,1,10400,250,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Gurugram,Sector 44,1BHK,1,21400,280,No,Yes,Yes,Yes,Unfurnished,No,No,Yes
+Mumbai,Bandra West,1BHK,1,23900,160,No,Yes,No,Yes,Unfurnished,No,Yes,Yes
+Gurugram,Sector 15,1BHK,1,24300,240,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Prayagraj,Naini,4BHK,4,5100,530,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Koramangala,3BHK,3,8200,370,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 21,1BHK,1,26400,250,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 15,2BHK,2,13700,380,Yes,Yes,No,Yes,Semi Furnished,Yes,No,Yes
+Delhi,Hauz Khas,2BHK,2,14800,170,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Lucknow,Hazratganj,4BHK,4,5300,570,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Bengaluru,BTM Layout,2BHK,2,10000,190,No,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Noida,Sector 16,3BHK,3,8000,370,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 27,1BHK,1,16400,270,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,4BHK,4,4200,230,Yes,No,No,Yes,Fully Furnished,No,Yes,No
+Prayagraj,Salori,4BHK,4,3200,290,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Alambagh,1BHK,1,11500,130,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Gurugram,Sector 15,4BHK,4,10100,360,Yes,No,No,No,Semi Furnished,Yes,No,No
+Delhi,Rajouri Garden,1BHK,1,20000,250,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Delhi,Rohini,1BHK,1,23600,190,Yes,Yes,No,No,Semi Furnished,No,Yes,Yes
+Prayagraj,Old Katra,1BHK,1,8700,140,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Delhi,Hauz Khas,1BHK,1,23000,270,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Teliarganj,3BHK,3,4300,180,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,Vijay Nagar,3BHK,3,10400,280,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Hyderabad,Begumpet,3BHK,3,7800,200,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 137,2BHK,2,10000,170,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Delhi,Dwarka,3BHK,3,14200,190,Yes,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Noida,Sector 15,3BHK,3,9400,270,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Bengaluru,JP Nagar,2BHK,2,9600,250,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,11500,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,4BHK,4,11100,290,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Kondapur,3BHK,3,5500,480,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,No
+Jaipur,Jagatpura,3BHK,3,6100,450,No,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Prayagraj,Ashok Nagar,4BHK,4,3500,540,Yes,Yes,No,No,Semi Furnished,No,No,Yes
+Hyderabad,Begumpet,2BHK,2,8600,390,Yes,Yes,No,No,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 17,1BHK,1,21800,250,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Malviya Nagar,1BHK,1,10100,250,Yes,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Pune,Wakad,1BHK,1,18200,250,Yes,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 27,2BHK,2,10800,380,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Rajouri Garden,2BHK,2,15200,270,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Delhi,Dwarka,3BHK,3,15200,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Jaipur,Mansarovar,1BHK,1,9300,120,No,Yes,No,Yes,Fully Furnished,No,Yes,No
+Prayagraj,Katra,2BHK,2,6200,260,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 15,3BHK,3,9000,290,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Noida,Sector 52,4BHK,4,5400,270,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Saket,2BHK,2,13700,160,Yes,Yes,No,Yes,Unfurnished,No,Yes,No
+Gurugram,Sector 44,2BHK,2,16700,160,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Rohini,3BHK,3,11500,230,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Gurugram,Sector 17,4BHK,4,11000,290,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Prayagraj,Ashok Nagar,1BHK,1,9600,140,No,Yes,Yes,Yes,Semi Furnished,Yes,No,Yes
+Lucknow,Mahanagar,1BHK,1,14800,130,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 15,1BHK,1,21700,150,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 46,2BHK,2,11100,290,Yes,Yes,No,No,Unfurnished,Yes,Yes,No
+Delhi,South Extension,2BHK,2,13800,390,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Mumbai,Goregaon,3BHK,3,11400,300,No,Yes,No,Yes,Unfurnished,Yes,Yes,Yes
+Prayagraj,George Town,4BHK,4,3700,330,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Pune,Wakad,1BHK,1,15600,270,Yes,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Hyderabad,Kondapur,2BHK,2,9400,350,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 76,3BHK,3,8200,320,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,No
+Mumbai,Powai,1BHK,1,24400,290,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Lucknow,Indira Nagar,4BHK,4,5300,310,Yes,Yes,Yes,Yes,Unfurnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,2BHK,2,17300,340,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Allahpur,3BHK,3,3800,250,Yes,Yes,No,No,Semi Furnished,Yes,No,Yes
+Delhi,South Extension,2BHK,2,14600,370,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Laxmi Nagar,2BHK,2,16300,230,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Bengaluru,Indiranagar,2BHK,2,9100,270,Yes,Yes,No,Yes,Semi Furnished,No,No,No
+Gurugram,Sector 49,1BHK,1,21800,180,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 51,3BHK,3,7700,330,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,3BHK,3,8400,360,Yes,Yes,Yes,No,Unfurnished,No,Yes,No
+Hyderabad,Gachibowli,2BHK,2,8000,240,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Jaipur,Gopalpura,2BHK,2,8400,220,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 3,1BHK,1,21000,270,No,No,Yes,No,Fully Furnished,Yes,No,Yes
+Hyderabad,Kukatpally,3BHK,3,5300,330,No,Yes,Yes,No,Unfurnished,No,Yes,No
+Prayagraj,George Town,2BHK,2,5700,150,Yes,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Old Katra,3BHK,3,4900,410,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Begumpet,3BHK,3,6000,380,No,Yes,No,Yes,Fully Furnished,No,Yes,Yes
+Bengaluru,HSR Layout,4BHK,4,6100,400,Yes,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Jaipur,Tonk Road,1BHK,1,11300,230,Yes,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,South Extension,2BHK,2,12100,300,No,Yes,Yes,No,Semi Furnished,No,Yes,Yes
+Delhi,Karol Bagh,3BHK,3,11400,350,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Gurugram,Sector 14,1BHK,1,26700,280,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Noida,Sector 52,3BHK,3,8200,410,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Hyderabad,Manikonda,1BHK,1,13900,270,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Ameerpet,3BHK,3,5200,390,Yes,Yes,No,Yes,Unfurnished,Yes,Yes,No
+Mumbai,Bandra West,3BHK,3,11900,320,No,No,No,No,Semi Furnished,No,No,Yes
+Pune,FC Road,2BHK,2,10500,350,No,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Delhi,Mukherjee Nagar,1BHK,1,28300,240,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Hinjewadi,2BHK,2,10200,370,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,3BHK,3,5200,470,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 44,3BHK,3,10700,390,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Pune,Wakad,2BHK,2,10000,230,Yes,Yes,Yes,No,Semi Furnished,No,No,Yes
+Gurugram,Sector 14,2BHK,2,14200,260,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Hauz Khas,1BHK,1,23300,280,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rohini,1BHK,1,30500,270,No,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 15,2BHK,2,8800,230,Yes,Yes,No,Yes,Fully Furnished,Yes,No,Yes
+Gurugram,Sector 43,3BHK,3,14200,480,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 62,1BHK,1,17000,190,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Pune,Koregaon Park,2BHK,2,8600,330,Yes,Yes,No,No,Unfurnished,Yes,Yes,Yes
+Delhi,Rajouri Garden,1BHK,1,26700,250,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Jankipuram,3BHK,3,6200,390,No,No,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Rajouri Garden,2BHK,2,14100,290,No,Yes,No,No,Semi Furnished,Yes,Yes,Yes
+Gurugram,Sector 15,4BHK,4,9800,220,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,No
+Hyderabad,Kukatpally,3BHK,3,5700,280,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Mansarovar,1BHK,1,10700,180,No,Yes,Yes,Yes,Unfurnished,No,Yes,Yes
+Hyderabad,Manikonda,2BHK,2,10400,220,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,8200,300,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Pune,Aundh,4BHK,4,6400,590,Yes,Yes,Yes,No,Fully Furnished,Yes,No,Yes
+Bengaluru,BTM Layout,2BHK,2,8900,330,No,No,No,Yes,Unfurnished,No,No,Yes
+Gurugram,DLF Phase 3,2BHK,2,12100,350,No,Yes,No,No,Fully Furnished,Yes,Yes,Yes
+Mumbai,Malad,2BHK,2,15000,340,No,Yes,Yes,No,Fully Furnished,Yes,Yes,Yes
+Gurugram,DLF Phase 3,2BHK,2,13600,300,Yes,Yes,No,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Dhoomanganj,2BHK,2,5600,230,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Delhi,South Extension,4BHK,4,10200,280,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Prayagraj,Katra,1BHK,1,8500,270,No,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 46,2BHK,2,16500,320,Yes,Yes,Yes,No,Semi Furnished,Yes,Yes,Yes
+Hyderabad,Madhapur,3BHK,3,6900,240,No,Yes,No,Yes,Unfurnished,Yes,Yes,No
+Mumbai,Thane,3BHK,3,10800,350,Yes,Yes,No,Yes,Fully Furnished,No,Yes,No
+Noida,Sector 51,1BHK,1,17600,160,No,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Teliarganj,2BHK,2,5600,180,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Noida,Sector 16,2BHK,2,11700,300,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Bengaluru,Whitefield,2BHK,2,12200,220,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Lucknow,Jankipuram,3BHK,3,6300,330,Yes,No,No,Yes,Fully Furnished,No,Yes,Yes
+Gurugram,Sector 49,2BHK,2,14400,240,No,No,Yes,Yes,Fully Furnished,No,Yes,Yes
+Delhi,Rohini,2BHK,2,16800,200,Yes,Yes,Yes,Yes,Semi Furnished,No,Yes,No
+Delhi,Mukherjee Nagar,3BHK,3,12200,270,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,No
+Pune,Koregaon Park,1BHK,1,15700,180,No,Yes,Yes,Yes,Semi Furnished,No,No,No
+Noida,Sector 52,1BHK,1,16100,230,No,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Jaipur,Malviya Nagar,3BHK,3,4700,300,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Delhi,Dwarka,3BHK,3,12800,240,Yes,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Prayagraj,Civil Lines,1BHK,1,9500,130,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,Tonk Road,3BHK,3,6000,450,No,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Noida,Sector 15,3BHK,3,6400,370,Yes,Yes,No,Yes,Semi Furnished,Yes,No,No
+Lucknow,Hazratganj,2BHK,2,7200,150,Yes,Yes,Yes,Yes,Semi Furnished,Yes,Yes,No
+Hyderabad,Gachibowli,2BHK,2,9500,340,No,Yes,Yes,Yes,Unfurnished,No,No,Yes
+Hyderabad,Miyapur,4BHK,4,5900,360,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Noida,Sector 52,3BHK,3,7300,330,Yes,Yes,No,No,Fully Furnished,No,Yes,Yes
+Gurugram,DLF Phase 2,1BHK,1,24100,210,Yes,Yes,No,No,Semi Furnished,Yes,No,Yes
+Pune,Koregaon Park,2BHK,2,10600,190,Yes,Yes,Yes,Yes,Fully Furnished,Yes,No,Yes
+Bengaluru,Hebbal,2BHK,2,12700,200,Yes,Yes,Yes,Yes,Fully Furnished,No,No,Yes
+Delhi,Karol Bagh,2BHK,2,15300,150,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Bengaluru,Koramangala,1BHK,1,15500,180,No,No,No,No,Fully Furnished,No,Yes,Yes
+Lucknow,Hazratganj,2BHK,2,7100,360,Yes,Yes,Yes,No,Unfurnished,Yes,Yes,No
+Jaipur,Jagatpura,4BHK,4,4900,350,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Pune,Viman Nagar,1BHK,1,16200,260,Yes,Yes,No,Yes,Semi Furnished,No,Yes,Yes
+Delhi,Hauz Khas,3BHK,3,11300,210,No,Yes,No,Yes,Fully Furnished,Yes,Yes,Yes
+Hyderabad,Hitech City,3BHK,3,5600,400,No,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Noida,Sector 137,2BHK,2,9200,350,No,Yes,Yes,Yes,Semi Furnished,No,Yes,Yes
+Jaipur,C-Scheme,2BHK,2,7400,270,No,No,Yes,Yes,Semi Furnished,No,Yes,No
+Noida,Sector 16,1BHK,1,17700,230,No,Yes,Yes,Yes,Semi Furnished,Yes,Yes,Yes
+Delhi,Hauz Khas,2BHK,2,18000,340,Yes,Yes,Yes,No,Fully Furnished,No,Yes,Yes
+Bengaluru,Whitefield,3BHK,3,7300,400,No,Yes,No,No,Semi Furnished,No,Yes,Yes
+Prayagraj,Naini,4BHK,4,4500,460,Yes,Yes,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Mumbai,Chembur,2BHK,2,16600,350,Yes,Yes,Yes,Yes,Semi Furnished,No,No,Yes
+Prayagraj,Allahpur,2BHK,2,5200,220,No,Yes,No,Yes,Semi Furnished,Yes,Yes,Yes
+Jaipur,Gopalpura,1BHK,1,11700,190,Yes,Yes,Yes,Yes,Unfurnished,No,No,Yes
+Pune,Hinjewadi,3BHK,3,9500,220,Yes,No,Yes,Yes,Fully Furnished,Yes,Yes,Yes
+Lucknow,Jankipuram,2BHK,2,9300,250,Yes,Yes,Yes,Yes,Fully Furnished,No,Yes,Yes
+Hyderabad,Begumpet,2BHK,2,7400,180,No,Yes,Yes,Yes,Fully Furnished,No,Yes,No
+Jaipur,Sodala,4BHK,4,4600,480,No,Yes,Yes,Yes,Unfurnished,Yes,Yes,No
