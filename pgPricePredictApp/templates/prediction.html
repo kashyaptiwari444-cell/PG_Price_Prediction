@@ -1,297 +1,292 @@
-{% comment %} <!doctype html>
-<html>
-  <head>
-    <title>PG Price Prediction</title>
-  </head>
-  <body>
-    <p>Welcome to the PG Price Prediction app!</p>
-    <form method="post">
-      {% csrf_token %}
-
-      <!-- City -->
-      <label>City</label>
-      <select id="city" name="city" required>
-        <option value="">Select City</option>
-        <option value="Delhi">Delhi</option>
-        <option value="Noida">Noida</option>
-        <option value="Gurugram">Gurugram</option>
-        <option value="Lucknow">Lucknow</option>
-        <option value="Prayagraj">Prayagraj</option>
-      </select>
-      <br /><br />
-
-      <!-- Area -->
-      <label>Area</label>
-      <select id="area" name="area" required>
-        <option value="">Select Area</option>
-      </select>
-      <br /><br />
-
-      <!-- Room Type -->
-      <label>Room Type</label>
-      <select id="room_type" name="room_type" required>
-        <option value="">Select Room Type</option>
-        <option value="1RK">1 RK</option>
-        <option value="1BHK">1 BHK</option>
-        <option value="2BHK">2 BHK</option>
-        <option value="3BHK">3 BHK</option>
-      </select>
-      <br /><br />
-
-      <!-- Sharing -->
-      <label>Sharing</label>
-      <select id="sharing" name="sharing" required>
-        <option value="">Select Sharing</option>
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-      </select>
-      <br /><br />
-
-      <!-- Room Size -->
-      <label>Room Size SQFT</label>
-      <input
-        type="number"
-        id="room_size_sqft"
-        name="room_size_sqft"
-        placeholder="Enter Room Size in SQFT"
-        required
-      />
-      <br /><br />
-
-      <!-- Food -->
-      <label>Food</label>
-      <select id="food" name="food" required>
-        <option value="">Select Food Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <!-- WiFi -->
-      <label>WiFi</label>
-      <select id="wifi" name="wifi" required>
-        <option value="">Select WiFi Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <!-- AC -->
-      <label>AC</label>
-      <select id="ac" name="ac" required>
-        <option value="">Select AC Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <!-- Attached Bathroom -->
-      <label>Attached Bathroom</label>
-      <select id="attached_bathroom" name="attached_bathroom" required>
-        <option value="">Select Attached Bathroom Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <!-- Furnished -->
-      <label>Furnished</label>
-      <select id="furnished" name="furnished" required>
-        <option value="">Select Furnished Option</option>
-        <option value="Fully Furnished">Fully Furnished</option>
-        <option value="Semi Furnished">Semi Furnished</option>
-        <option value="Unfurnished">Unfurnished</option>
-      </select>
-      <br /><br />
-      <!-- Parking -->
-      <label>Parking</label>
-      <select id="parking" name="parking" required>
-        <option value="">Select Parking Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <!-- CCTV -->
-      <label>CCTV</label>
-      <select id="cctv" name="cctv" required>
-        <option value="">Select CCTV Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <!-- Power Backup -->
-      <label>Power Backup</label>
-      <select id="power_backup" name="power_backup" required>
-        <option value="">Select Power Backup Option</option>
-        <option value="Yes">Yes</option>
-        <option value="No">No</option>
-      </select>
-      <br /><br />
-      <input type="submit" value="Predict Rent" />
-    </form>
-
-    {% if result %}
-    <div class="result">
-      <h2>Predicted Rent</h2>
-      <h3>₹ {{ result|floatformat:0 }} / month</h3>
-
-      <p>Model R² Score: {{ r2_percentage }}</p>
-
-      <br />
-    </div>
-    {% endif %}
-
-    <script>
-      const city = document.getElementById("city");
-      const area = document.getElementById("area");
-      const cities = {
-        Delhi: [
-          "Laxmi Nagar",
-          "Mukherjee Nagar",
-          "Hauz Khas",
-          "Saket",
-          "Karol Bagh",
-          "Dwarka",
-          "Rohini",
-          "Rajouri Garden",
-          "Vijay Nagar",
-          "South Extension",
-        ],
-        Noida: [
-          "Sector 15",
-          "Sector 16",
-          "Sector 18",
-          "Sector 27",
-          "Sector 51",
-          "Sector 52",
-          "Sector 62",
-          "Sector 63",
-          "Sector 76",
-          "Sector 137",
-        ],
-        Gurugram: [
-          "Sector 14",
-          "Sector 15",
-          "Sector 17",
-          "Sector 21",
-          "Sector 43",
-          "Sector 44",
-          "Sector 46",
-          "Sector 49",
-          "DLF Phase 2",
-          "DLF Phase 3",
-        ],
-        Lucknow: [
-          "Gomti Nagar",
-          "Indira Nagar",
-          "Aliganj",
-          "Hazratganj",
-          "Alambagh",
-          "Jankipuram",
-          "Mahanagar",
-          "Vikas Nagar",
-          "Chinhat",
-          "Ashiyana",
-        ],
-        Prayagraj: [
-          "Katra",
-          "Civil Lines",
-          "George Town",
-          "Allahpur",
-          "Salori",
-          "Tagore Town",
-          "Mumfordganj",
-          "Teliarganj",
-          "Old Katra",
-          "Naini",
-        ],
-      };
-      city.addEventListener("change", function () {
-        area.innerHTML = '<option value="">Select Area</option>';
-        const selectedCity = city.value;
-        if (cities[selectedCity]) {
-          cities[selectedCity].forEach(function (areaName) {
-            const option = document.createElement("option");
-            option.value = areaName;
-            option.textContent = areaName;
-            area.appendChild(option);
-          });
-        }
-      });
-    </script>
-  </body>
-</html>
-{% endcomment %}
-
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>PG Price Prediction</title>
+    <title>PG Price Predictor | AI Rent Estimation</title>
 
     <style>
       * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: Arial, sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      html {
+        scroll-behavior: smooth;
       }
 
       body {
         min-height: 100vh;
-        background: linear-gradient(135deg, #eef2ff, #f8fafc);
-        padding: 40px 20px;
-        color: #1e293b;
+        background: linear-gradient(
+          135deg,
+          #0f172a 0%,
+          #111827 50%,
+          #172033 100%
+        );
+        color: #f8fafc;
+
+        padding-top: 75px; /* navbar ki height ke according */
       }
 
+      /* ================= NAVBAR ================= */
+
+      .navbar {
+        width: 100%;
+        height: 68px;
+        background: #0b1120;
+        border-bottom: 1px solid #263449;
+
+        display: flex;
+        align-items: center;
+
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+      }
+
+      .nav-inner {
+        width: 1180px;
+        max-width: calc(100% - 40px);
+        margin: auto;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 11px;
+
+        text-decoration: none;
+        color: #f8fafc;
+      }
+
+      .brand-icon {
+        width: 39px;
+        height: 39px;
+
+        border-radius: 10px;
+
+        background: #2563eb;
+        color: white;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 19px;
+        font-weight: 800;
+      }
+
+      .brand-text strong {
+        display: block;
+        font-size: 16px;
+        color: #f8fafc;
+      }
+
+      .brand-text span {
+        display: block;
+        font-size: 11px;
+        color: #94a3b8;
+        margin-top: 2px;
+      }
+
+      .nav-links {
+        display: flex;
+        gap: 28px;
+      }
+
+      .nav-links a {
+        text-decoration: none;
+        color: #94a3b8;
+        font-size: 13px;
+        font-weight: 600;
+
+        transition: 0.2s;
+      }
+
+      .nav-links a:hover {
+        color: #60a5fa;
+      }
+
+      /* ================= CONTAINER ================= */
+
       .container {
-        max-width: 1200px;
+        width: 1180px;
+        max-width: calc(100% - 40px);
         margin: auto;
       }
 
-      /* Header */
-      .header {
+      /* ================= HERO ================= */
+
+      .hero {
         text-align: center;
-        margin-bottom: 30px;
+        padding: 55px 0 38px;
       }
 
-      .header h1 {
-        font-size: 34px;
-        color: #1e3a8a;
-        margin-bottom: 8px;
+      .hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+
+        background: rgba(37, 99, 235, 0.12);
+        color: #60a5fa;
+
+        border: 1px solid rgba(96, 165, 250, 0.18);
+
+        border-radius: 30px;
+
+        padding: 7px 14px;
+
+        font-size: 11px;
+        font-weight: 700;
+
+        margin-bottom: 16px;
       }
 
-      .header p {
-        color: #64748b;
+      .hero h1 {
+        font-size: 40px;
+        line-height: 1.15;
+
+        color: #f8fafc;
+
+        margin-bottom: 13px;
       }
 
-      /* Main Layout */
-      .main-layout {
+      .hero h1 span {
+        color: #60a5fa;
+      }
+
+      .hero p {
+        color: #94a3b8;
+
+        font-size: 14px;
+        line-height: 1.7;
+
+        max-width: 650px;
+        margin: auto;
+      }
+
+      /* ================= MAIN GRID ================= */
+
+      .main-grid {
         display: grid;
-        grid-template-columns: 2fr 1fr;
+
+        grid-template-columns:
+          minmax(0, 1.7fr)
+          minmax(330px, 0.8fr);
+
         gap: 25px;
+
         align-items: start;
       }
 
-      /* Form Card */
+      /* ================= FORM CARD ================= */
+
       .form-card {
-        background: white;
-        padding: 30px;
+        background: #1e293b;
+
+        border: 1px solid #334155;
+
         border-radius: 18px;
-        box-shadow: 0 12px 35px rgba(15, 23, 42, 0.1);
+
+        padding: 28px;
+
+        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
       }
 
-      .section-title {
-        font-size: 20px;
-        font-weight: bold;
-        margin-bottom: 22px;
-        color: #1e293b;
+      /* ================= CARD HEADING ================= */
+
+      .card-heading {
+        display: flex;
+        align-items: center;
+        gap: 13px;
+
+        margin-bottom: 27px;
       }
+
+      .card-heading-icon {
+        width: 43px;
+        height: 43px;
+
+        border-radius: 11px;
+
+        background: rgba(37, 99, 235, 0.14);
+        color: #60a5fa;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 20px;
+      }
+
+      .card-heading h2 {
+        font-size: 19px;
+        color: #f8fafc;
+
+        margin-bottom: 3px;
+      }
+
+      .card-heading p {
+        font-size: 12px;
+        color: #94a3b8;
+      }
+
+      /* ================= FORM SECTION ================= */
+
+      .form-section {
+        margin-bottom: 27px;
+      }
+
+      .section-label {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+
+        font-size: 13px;
+        font-weight: 700;
+
+        color: #cbd5e1;
+
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+
+        border-bottom: 1px solid #334155;
+      }
+
+      .section-number {
+        width: 23px;
+        height: 23px;
+
+        border-radius: 50%;
+
+        background: #2563eb;
+        color: white;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 10px;
+        font-weight: 800;
+      }
+
+      /* ================= FORM GRID ================= */
 
       .form-grid {
         display: grid;
+
         grid-template-columns: repeat(2, 1fr);
-        gap: 18px;
+
+        gap: 17px 16px;
       }
 
       .form-group {
@@ -300,149 +295,456 @@
       }
 
       label {
-        font-size: 14px;
-        font-weight: 600;
-        color: #334155;
+        font-size: 12px;
+        font-weight: 700;
+
+        color: #cbd5e1;
+
         margin-bottom: 7px;
       }
+
+      /* ================= INPUTS ================= */
 
       select,
       input {
         width: 100%;
-        padding: 12px;
-        border: 1px solid #cbd5e1;
+        height: 43px;
+
+        background: #111827;
+        color: #f8fafc;
+
+        border: 1px solid #475569;
         border-radius: 9px;
-        font-size: 14px;
+
+        padding: 0 12px;
+
+        font-size: 13px;
+
         outline: none;
-        background: white;
+
+        transition: 0.2s;
+      }
+
+      select:hover,
+      input:hover {
+        border-color: #64748b;
       }
 
       select:focus,
       input:focus {
         border-color: #2563eb;
-        box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+
+        box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
       }
+
+      input::placeholder {
+        color: #64748b;
+      }
+
+      select option {
+        background: #111827;
+        color: #f8fafc;
+      }
+
+      /* ================= BUTTON ================= */
 
       .predict-btn {
         width: 100%;
-        margin-top: 25px;
-        padding: 14px;
+        height: 48px;
+
         border: none;
         border-radius: 10px;
+
         background: #2563eb;
         color: white;
-        font-size: 16px;
-        font-weight: bold;
+
+        font-size: 14px;
+        font-weight: 700;
+
         cursor: pointer;
+
         transition: 0.2s;
+
+        margin-top: 2px;
       }
 
       .predict-btn:hover {
         background: #1d4ed8;
-        transform: translateY(-2px);
+
+        transform: translateY(-1px);
+
+        box-shadow: 0 8px 22px rgba(37, 99, 235, 0.25);
       }
 
-      /* Output Card */
+      .predict-btn:active {
+        transform: translateY(0);
+      }
+
+      /* ================= RESULT CARD ================= */
+
       .result-card {
-        background: white;
+        background: #1e293b;
+
+        border: 1px solid #334155;
+
         border-radius: 18px;
-        padding: 30px;
-        box-shadow: 0 12px 35px rgba(15, 23, 42, 0.1);
 
-        min-height: 300px;
+        padding: 26px;
 
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-
-        text-align: center;
+        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
 
         position: sticky;
-        top: 25px;
+        top: 20px;
+      }
+
+      /* ================= RESULT ================= */
+
+      .result-top {
+        text-align: center;
       }
 
       .result-icon {
-        width: 65px;
-        height: 65px;
+        width: 58px;
+        height: 58px;
+
+        margin: 0 auto 14px;
+
         border-radius: 50%;
-        background: #eff6ff;
+
+        background: rgba(34, 197, 94, 0.12);
+        color: #22c55e;
+
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 30px;
-        margin-bottom: 18px;
+
+        font-size: 25px;
+        font-weight: 800;
       }
 
-      .result-card h2 {
-        font-size: 18px;
-        color: #64748b;
-        margin-bottom: 10px;
+      .result-label {
+        color: #94a3b8;
+
+        font-size: 13px;
+        font-weight: 600;
+
+        margin-bottom: 5px;
       }
 
       .rent {
-        font-size: 38px;
-        font-weight: bold;
-        color: #16a34a;
-        margin-bottom: 18px;
+        color: #22c55e;
+
+        font-size: 36px;
+        font-weight: 800;
+
+        margin-bottom: 3px;
       }
 
+      .per-month {
+        color: #64748b;
+
+        font-size: 12px;
+      }
+
+      /* ================= SCORE ================= */
+
       .score-box {
-        background: #f8fafc;
-        border: 1px solid #e2e8f0;
-        border-radius: 10px;
-        padding: 12px 18px;
-        width: 100%;
+        margin-top: 23px;
+
+        background: #111827;
+
+        border: 1px solid #334155;
+
+        border-radius: 11px;
+
+        padding: 14px;
+
+        text-align: center;
       }
 
       .score-label {
-        font-size: 13px;
-        color: #64748b;
+        color: #94a3b8;
+
+        font-size: 11px;
+
+        margin-bottom: 4px;
       }
 
       .score {
-        font-size: 20px;
-        font-weight: bold;
-        color: #2563eb;
-        margin-top: 4px;
+        color: #60a5fa;
+
+        font-size: 21px;
+        font-weight: 800;
       }
 
-      /* Empty Result */
-      .empty-result {
-        color: #94a3b8;
+      /* ================= DETAILS ================= */
+
+      .details {
+        margin-top: 23px;
+
+        padding-top: 20px;
+
+        border-top: 1px solid #334155;
+      }
+
+      .details-title {
         font-size: 14px;
-        line-height: 1.6;
+        font-weight: 700;
+
+        color: #f1f5f9;
+
+        margin-bottom: 12px;
       }
 
-      .empty-result strong {
-        display: block;
-        color: #475569;
-        font-size: 18px;
+      .detail-row {
+        min-height: 33px;
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: space-between;
+
+        gap: 10px;
+
+        border-bottom: 1px solid #293548;
+      }
+
+      .detail-row:last-child {
+        border-bottom: none;
+      }
+
+      .detail-row span {
+        color: #94a3b8;
+        font-size: 11px;
+      }
+
+      .detail-row strong {
+        color: #e2e8f0;
+
+        font-size: 11px;
+
+        text-align: right;
+      }
+
+      /* ================= EMPTY RESULT ================= */
+
+      .empty-result {
+        text-align: center;
+
+        padding: 18px 5px;
+      }
+
+      .empty-result .result-icon {
+        background: rgba(37, 99, 235, 0.12);
+        color: #60a5fa;
+      }
+
+      .empty-result h3 {
+        font-size: 17px;
+
+        color: #f1f5f9;
+
         margin-bottom: 8px;
       }
 
-      /* Mobile */
-      @media (max-width: 850px) {
-        .main-layout {
+      .empty-result p {
+        color: #94a3b8;
+
+        font-size: 12px;
+
+        line-height: 1.7;
+      }
+
+      .empty-result b {
+        color: #60a5fa;
+      }
+
+      /* ================= HOW IT WORKS ================= */
+
+      .info-section {
+        margin-top: 48px;
+      }
+
+      .info-heading {
+        text-align: center;
+
+        margin-bottom: 24px;
+      }
+
+      .info-heading h2 {
+        font-size: 24px;
+
+        color: #f8fafc;
+
+        margin-bottom: 7px;
+      }
+
+      .info-heading p {
+        color: #94a3b8;
+
+        font-size: 13px;
+      }
+
+      .steps {
+        display: grid;
+
+        grid-template-columns: repeat(3, 1fr);
+
+        gap: 18px;
+      }
+
+      .step-card {
+        background: #1e293b;
+
+        border: 1px solid #334155;
+
+        border-radius: 14px;
+
+        padding: 23px;
+
+        text-align: center;
+
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+      }
+
+      .step-number {
+        width: 39px;
+        height: 39px;
+
+        border-radius: 50%;
+
+        background: rgba(37, 99, 235, 0.13);
+        color: #60a5fa;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        margin: 0 auto 13px;
+
+        font-size: 12px;
+        font-weight: 800;
+      }
+
+      .step-card h3 {
+        font-size: 14px;
+
+        color: #f1f5f9;
+
+        margin-bottom: 7px;
+      }
+
+      .step-card p {
+        font-size: 12px;
+
+        color: #94a3b8;
+
+        line-height: 1.6;
+      }
+
+      /* ================= TECHNOLOGY ================= */
+
+      .tech-section {
+        margin: 48px 0;
+
+        text-align: center;
+      }
+
+      .tech-section h2 {
+        font-size: 22px;
+
+        color: #f8fafc;
+
+        margin-bottom: 18px;
+      }
+
+      .tech-list {
+        display: flex;
+
+        justify-content: center;
+
+        flex-wrap: wrap;
+
+        gap: 9px;
+      }
+
+      .tech {
+        padding: 8px 14px;
+
+        background: #1e293b;
+
+        border: 1px solid #334155;
+
+        border-radius: 20px;
+
+        color: #cbd5e1;
+
+        font-size: 12px;
+
+        font-weight: 600;
+      }
+
+      /* ================= FOOTER ================= */
+
+      footer {
+        border-top: 1px solid #263449;
+
+        background: #0b1120;
+
+        padding: 23px 20px;
+
+        text-align: center;
+
+        color: #64748b;
+
+        font-size: 11px;
+      }
+
+      /* ================= RESPONSIVE ================= */
+
+      @media (max-width: 900px) {
+        .main-grid {
           grid-template-columns: 1fr;
         }
 
         .result-card {
           position: static;
         }
+
+        .steps {
+          grid-template-columns: 1fr;
+        }
       }
 
-      @media (max-width: 600px) {
-        body {
-          padding: 25px 15px;
+      @media (max-width: 650px) {
+        .navbar {
+          height: auto;
+
+          padding: 15px 0;
         }
 
-        .header h1 {
-          font-size: 28px;
+        .nav-links {
+          display: none;
         }
 
-        .form-card {
+        .hero {
+          padding: 38px 0 28px;
+        }
+
+        .hero h1 {
+          font-size: 30px;
+        }
+
+        .container {
+          max-width: calc(100% - 25px);
+        }
+
+        .form-card,
+        .result-card {
           padding: 20px;
+
+          border-radius: 14px;
         }
 
         .form-grid {
@@ -453,289 +755,445 @@
           font-size: 32px;
         }
       }
-
-
-
-
-      .selected-inputs {
-    width: 100%;
-    margin-top: 25px;
-    border-top: 1px solid #e2e8f0;
-    padding-top: 20px;
-}
-
-.selected-inputs h3 {
-    font-size: 16px;
-    color: #334155;
-    margin-bottom: 12px;
-    text-align: left;
-}
-
-.detail-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 15px;
-
-    padding: 9px 0;
-    border-bottom: 1px solid #f1f5f9;
-
-    font-size: 13px;
-}
-
-.detail-row span {
-    color: #64748b;
-}
-
-.detail-row strong {
-    color: #1e293b;
-    text-align: right;
-}
     </style>
   </head>
 
   <body>
-    <div class="container">
-      <!-- Header -->
-      <div class="header">
-        <h1>PG Price Prediction</h1>
-        <p>Predict monthly PG rent using property details</p>
-      </div>
+    <!-- ================= NAVBAR ================= -->
 
-      <!-- LEFT + RIGHT -->
-      <div class="main-layout">
-        <!-- ================= LEFT : INPUT ================= -->
+    <nav class="navbar">
+      <div class="nav-inner">
+        <a href="#" class="brand">
+          <div class="brand-icon">₹</div>
+
+          <div class="brand-text">
+            <strong> PG Price Predictor </strong>
+
+            <span> AI Rent Estimation </span>
+          </div>
+        </a>
+
+        <div class="nav-links">
+          <a href="#"> Home </a>
+
+          <a href="#how-it-works"> How It Works </a>
+
+          <a href="#technology"> Technology </a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- ================= MAIN ================= -->
+
+    <main class="container">
+      <!-- ================= HERO ================= -->
+
+      <section class="hero">
+        <div class="hero-badge">✦ Machine Learning Powered</div>
+
+        <h1>
+          Find Your
+          <span>Estimated PG Rent</span>
+        </h1>
+
+        <p>
+          Get an instant monthly rent estimate based on location, room details
+          and available amenities.
+        </p>
+      </section>
+
+      <!-- ================= FORM + RESULT ================= -->
+
+      <div class="main-grid">
+        <!-- ================= FORM CARD ================= -->
+
         <div class="form-card">
-          <div class="section-title">Enter PG Details</div>
+          <div class="card-heading">
+            <div class="card-heading-icon">🏠</div>
+
+            <div>
+              <h2>Property Details</h2>
+
+              <p>Enter the details of your PG accommodation</p>
+            </div>
+          </div>
 
           <form method="post">
             {% csrf_token %}
 
-            <div class="form-grid">
-              <!-- City -->
-              <div class="form-group">
-                <label for="city">City</label>
+            <!-- ================= LOCATION ================= -->
 
-                <select id="city" name="city" required>
-                  <option value="">Select City</option>
-                  <option value="Delhi">Delhi</option>
-                  <option value="Noida">Noida</option>
-                  <option value="Gurugram">Gurugram</option>
-                  <option value="Lucknow">Lucknow</option>
-                  <option value="Prayagraj">Prayagraj</option>
-                </select>
+            <div class="form-section">
+              <div class="section-label">
+                <span class="section-number"> 1 </span>
+
+                Location
               </div>
 
-              <!-- Area -->
-              <div class="form-group">
-                <label for="area">Area</label>
+              <div class="form-grid">
+                <!-- CITY -->
 
-                <select id="area" name="area" required>
-                  <option value="">Select Area</option>
-                </select>
-              </div>
+                <div class="form-group">
+                  <label for="city"> City </label>
 
-              <!-- Room Type -->
-              <div class="form-group">
-                <label for="room_type">Room Type</label>
+                  <select id="city" name="city" required>
+                    <option value="">Select City</option>
 
-                <select id="room_type" name="room_type" required>
-                  <option value="">Select Room Type</option>
-                  <option value="1RK">1 RK</option>
-                  <option value="1BHK">1 BHK</option>
-                  <option value="2BHK">2 BHK</option>
-                  <option value="3BHK">3 BHK</option>
-                </select>
-              </div>
+                    <option value="Delhi">Delhi</option>
 
-              <!-- Sharing -->
-              <div class="form-group">
-                <label for="sharing">Sharing</label>
+                    <option value="Noida">Noida</option>
 
-                <select id="sharing" name="sharing" required>
-                  <option value="">Select Sharing</option>
-                  <option value="1">1 Person</option>
-                  <option value="2">2 People</option>
-                  <option value="3">3 People</option>
-                  <option value="4">4 People</option>
-                </select>
-              </div>
+                    <option value="Gurugram">Gurugram</option>
 
-              <!-- Room Size -->
-              <div class="form-group">
-                <label for="room_size_sqft"> Room Size (SQFT) </label>
+                    <option value="Lucknow">Lucknow</option>
 
-                <input
-                  type="number"
-                  id="room_size_sqft"
-                  name="room_size_sqft"
-                  placeholder="Example: 500"
-                  min="50"
-                  required
-                />
-              </div>
+                    <option value="Prayagraj">Prayagraj</option>
+                  </select>
+                </div>
 
-              <!-- Food -->
-              <div class="form-group">
-                <label for="food">Food</label>
+                <!-- AREA -->
 
-                <select id="food" name="food" required>
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
-              </div>
+                <div class="form-group">
+                  <label for="area"> Area </label>
 
-              <!-- WiFi -->
-              <div class="form-group">
-                <label for="wifi">WiFi</label>
-
-                <select id="wifi" name="wifi" required>
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
-              </div>
-
-              <!-- AC -->
-              <div class="form-group">
-                <label for="ac">AC</label>
-
-                <select id="ac" name="ac" required>
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
-              </div>
-
-              <!-- Attached Bathroom -->
-              <div class="form-group">
-                <label for="attached_bathroom"> Attached Bathroom </label>
-
-                <select
-                  id="attached_bathroom"
-                  name="attached_bathroom"
-                  required
-                >
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
-              </div>
-
-              <!-- Furnished -->
-              <div class="form-group">
-                <label for="furnished">Furnished</label>
-
-                <select id="furnished" name="furnished" required>
-                  <option value="">Select Option</option>
-                  <option value="Fully Furnished">Fully Furnished</option>
-
-                  <option value="Semi Furnished">Semi Furnished</option>
-
-                  <option value="Unfurnished">Unfurnished</option>
-                </select>
-              </div>
-
-              <!-- Parking -->
-              <div class="form-group">
-                <label for="parking">Parking</label>
-
-                <select id="parking" name="parking" required>
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
-              </div>
-
-              <!-- CCTV -->
-              <div class="form-group">
-                <label for="cctv">CCTV</label>
-
-                <select id="cctv" name="cctv" required>
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
-              </div>
-
-              <!-- Power Backup -->
-              <div class="form-group">
-                <label for="power_backup"> Power Backup </label>
-
-                <select id="power_backup" name="power_backup" required>
-                  <option value="">Select Option</option>
-                  <option value="Yes">Yes</option>
-                  <option value="No">No</option>
-                </select>
+                  <select id="area" name="area" required>
+                    <option value="">Select Area</option>
+                  </select>
+                </div>
               </div>
             </div>
 
-            <!-- Button -->
-            <button type="submit" class="predict-btn">Predict Rent</button>
+            <!-- ================= ROOM DETAILS ================= -->
+
+            <div class="form-section">
+              <div class="section-label">
+                <span class="section-number"> 2 </span>
+
+                Room Details
+              </div>
+
+              <div class="form-grid">
+                <!-- ROOM TYPE -->
+
+                <div class="form-group">
+                  <label for="room_type"> Room Type </label>
+
+                  <select id="room_type" name="room_type" required>
+                    <option value="">Select Room Type</option>
+
+                    <option value="1RK">1 RK</option>
+
+                    <option value="1BHK">1 BHK</option>
+
+                    <option value="2BHK">2 BHK</option>
+
+                    <option value="3BHK">3 BHK</option>
+                  </select>
+                </div>
+
+                <!-- SHARING -->
+
+                <div class="form-group">
+                  <label for="sharing"> Sharing </label>
+
+                  <select id="sharing" name="sharing" required>
+                    <option value="">Select Sharing</option>
+
+                    <option value="1">1 Person</option>
+
+                    <option value="2">2 People</option>
+
+                    <option value="3">3 People</option>
+
+                    <option value="4">4 People</option>
+                  </select>
+                </div>
+
+                <!-- ROOM SIZE -->
+
+                <div class="form-group">
+                  <label for="room_size_sqft"> Room Size (SQFT) </label>
+
+                  <input
+                    type="number"
+                    id="room_size_sqft"
+                    name="room_size_sqft"
+                    placeholder="Example: 500"
+                    min="50"
+                    required
+                  />
+                </div>
+              </div>
+            </div>
+
+            <!-- ================= AMENITIES ================= -->
+
+            <div class="form-section">
+              <div class="section-label">
+                <span class="section-number"> 3 </span>
+
+                Amenities & Facilities
+              </div>
+
+              <div class="form-grid">
+                <!-- FOOD -->
+
+                <div class="form-group">
+                  <label for="food"> Food </label>
+
+                  <select id="food" name="food" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+
+                <!-- WIFI -->
+
+                <div class="form-group">
+                  <label for="wifi"> WiFi </label>
+
+                  <select id="wifi" name="wifi" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+
+                <!-- AC -->
+
+                <div class="form-group">
+                  <label for="ac"> AC </label>
+
+                  <select id="ac" name="ac" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+
+                <!-- ATTACHED BATHROOM -->
+
+                <div class="form-group">
+                  <label for="attached_bathroom"> Attached Bathroom </label>
+
+                  <select
+                    id="attached_bathroom"
+                    name="attached_bathroom"
+                    required
+                  >
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+
+                <!-- FURNISHED -->
+
+                <div class="form-group">
+                  <label for="furnished"> Furnished </label>
+
+                  <select id="furnished" name="furnished" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Fully Furnished">Fully Furnished</option>
+
+                    <option value="Semi Furnished">Semi Furnished</option>
+
+                    <option value="Unfurnished">Unfurnished</option>
+                  </select>
+                </div>
+
+                <!-- PARKING -->
+
+                <div class="form-group">
+                  <label for="parking"> Parking </label>
+
+                  <select id="parking" name="parking" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+
+                <!-- CCTV -->
+
+                <div class="form-group">
+                  <label for="cctv"> CCTV </label>
+
+                  <select id="cctv" name="cctv" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+
+                <!-- POWER BACKUP -->
+
+                <div class="form-group">
+                  <label for="power_backup"> Power Backup </label>
+
+                  <select id="power_backup" name="power_backup" required>
+                    <option value="">Select Option</option>
+
+                    <option value="Yes">Yes</option>
+
+                    <option value="No">No</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <!-- ================= BUTTON ================= -->
+
+            <button type="submit" class="predict-btn">
+              Estimate Monthly Rent →
+            </button>
           </form>
         </div>
 
-       <!-- ================= RIGHT : OUTPUT ================= -->
-<div class="result-card">
+        <!-- ================= RESULT CARD ================= -->
 
-    {% if result %}
+        <div class="result-card">
+          {% if result %}
 
-        <div class="result-icon">
-            ₹
-        </div>
+          <div class="result-top">
+            <div class="result-icon">₹</div>
 
-        <h2>Estimated Monthly Rent</h2>
+            <div class="result-label">Estimated Monthly Rent</div>
 
-        <div class="rent">
-            ₹ {{ result|floatformat:0 }}
-        </div>
+            <div class="rent">₹ {{ result|floatformat:0 }}</div>
 
-        <div class="score-box">
-            <div class="score-label">
-                Model R² Score
-            </div>
+            <div class="per-month">per month</div>
+          </div>
 
-            <div class="score">
-                {{ r2_percentage }}
-            </div>
-        </div>
+          <!-- MODEL SCORE -->
 
-        <!-- Selected Inputs -->
-        <div class="selected-inputs">
+          <div class="score-box">
+            <div class="score-label">Model R² Score</div>
 
-            <h3>Your Selected Details</h3>
+            <div class="score">{{ r2_percentage }}</div>
+          </div>
+
+          <!-- PROPERTY SUMMARY -->
+
+          <div class="details">
+            <div class="details-title">Property Summary</div>
 
             {% for key, value in input_summary.items %}
 
-                <div class="detail-row">
-                    <span>{{ key }}</span>
-                    <strong>{{ value }}</strong>
-                </div>
+            <div class="detail-row">
+              <span> {{ key }} </span>
+
+              <strong> {{ value }} </strong>
+            </div>
 
             {% endfor %}
+          </div>
 
+          {% else %}
+
+          <div class="empty-result">
+            <div class="result-icon">₹</div>
+
+            <h3>Your Prediction</h3>
+
+            <p>
+              Enter your PG details and click
+              <b>Estimate Monthly Rent</b>
+              to get your estimated rent.
+            </p>
+          </div>
+
+          {% endif %}
+        </div>
+      </div>
+
+      <!-- ================= HOW IT WORKS ================= -->
+
+      <section class="info-section" id="how-it-works">
+        <div class="info-heading">
+          <h2>How It Works</h2>
+
+          <p>Get a rent estimate in three simple steps</p>
         </div>
 
-    {% else %}
+        <div class="steps">
+          <div class="step-card">
+            <div class="step-number">01</div>
 
-        <div class="result-icon">
-            ₹
+            <h3>Enter PG Details</h3>
+
+            <p>Provide location, room type, size and available amenities.</p>
+          </div>
+
+          <div class="step-card">
+            <div class="step-number">02</div>
+
+            <h3>ML Prediction</h3>
+
+            <p>
+              The trained machine learning model processes your property
+              details.
+            </p>
+          </div>
+
+          <div class="step-card">
+            <div class="step-number">03</div>
+
+            <h3>Get Rent Estimate</h3>
+
+            <p>Receive an estimated monthly PG rent instantly.</p>
+          </div>
         </div>
+      </section>
 
-        <div class="empty-result">
-            <strong>Your Prediction</strong>
+      <!-- ================= TECHNOLOGY ================= -->
 
-            Enter the PG details on the left and click
-            <b>Predict Rent</b>.
+      <section class="tech-section" id="technology">
+        <h2>Built With</h2>
+
+        <div class="tech-list">
+          <span class="tech"> Python </span>
+
+          <span class="tech"> Django </span>
+
+          <span class="tech"> Pandas </span>
+
+          <span class="tech"> Scikit-learn </span>
+
+          <span class="tech"> Machine Learning </span>
+
+          <span class="tech"> HTML </span>
+
+          <span class="tech"> CSS </span>
+
+          <span class="tech"> JavaScript </span>
         </div>
+      </section>
+    </main>
 
-    {% endif %}
+    <!-- ================= FOOTER ================= -->
 
-</div>
+    <footer>PG Price Predictor • Machine Learning Rent Estimation</footer>
+
+    <!-- ================= JAVASCRIPT ================= -->
 
     <script>
       const city = document.getElementById("city");
+
       const area = document.getElementById("area");
 
       const cities = {
