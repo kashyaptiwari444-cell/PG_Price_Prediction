@@ -16,8 +16,13 @@ from sklearn.pipeline import Pipeline
 def predict_price(request):
 
     # Load dataset
-    df = pd.read_csv("pg_price_prediction_dataset_1850.csv")
+    # df = pd.read_csv("pg_price_prediction_dataset_1850.csv")
+    csv_path = os.path.join(
+        settings.BASE_DIR,
+        "pg_price_prediction_dataset_1850.csv"
+    )
 
+    df = pd.read_csv(csv_path)
     # Features and target
     X = df.drop("rent", axis=1)
     y = df["rent"]
