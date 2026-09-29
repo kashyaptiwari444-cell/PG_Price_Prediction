@@ -130,7 +130,10 @@ def predict_price(request):
         }
 
         # Prediction
-        result = model.predict(input_data)
+        prediction = model.predict(input_data)
+
+        result = int(prediction[0])
+        print("resul is =============== ", result)
 
         # R2 percentage
         r2_percentage = f"{r2 * 100:.2f}%"
